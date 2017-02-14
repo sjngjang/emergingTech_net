@@ -1,0 +1,1115 @@
+pid,label,ipc,YEAR,x,ybefore,y,tech,com
+EP0102219A2,EP0102219A2,G01B 21,1983,111,14,16,Acceleration/deceleration device,Fanuc Ltd.
+EP0583487A1,EP0583487A1,G05B 19,1992,167.8,13,15,braking action,Siemens Aktiengesellschaft
+EP0743579A2,EP0743579A2,G05B 19,1996,167.9,12,14,robot,Siemens Aktiengesellschaft
+EP1366867A2,EP1366867A2,B25J 9,2003,47.4,8,10,avoiding collision robots and others,KUKA Roboter GmbH
+KR100218106B1,KR100218106B1,G05B 13,1997,163,11,13,robot arm,SAMSUNG ELECTRONICS CO LTD
+US1027775,US1027775,F04B 9,1911,96.1,70,72,balance system,Company Of Deseniss & Jacobi Actiengesellschaft
+US1040378,US1040378,G07C 3,1911,206,70,72,electric signal system,Gisholt Machine Co
+US1042692,US1042692,G05D 3,1912,173.2,69,71,motor control,Gen Electric
+US1042693,US1042693,G05D 3,1912,173.3,69,71,motor control,Gen Electric
+US1044379,US1044379,B23D 51,1910,23.1,71,73,roller machine,George Habig
+US1074424,US1074424,G11B 5,1908,222,73,75,magnetic device,"Samuel M Kintner, Halsey M Barrett"
+US1077725,US1077725,G05B 19,1912,164,69,71,motor control,Gen Electric
+US1111033,US1111033,G08B 25,1914,204,67,69,signal system,Postal Telegraph Cable Company
+US1123067,US1123067,G05D 3,1910,173.1,71,73,remote control,Siemens Ag
+US1126826,US1126826,G08C 19,1912,208,69,71,electric signal,Siemens Ag
+US1126899,US1126899,F04B 9,1914,96.2,67,69,motion converting device,"Christ Specht, Thomas Williams"
+US1154252,US1154252,G01C 3,1915,119,66,68,frequency control system,Absalom M Kennedy
+US1155124,US1155124,G01V 1,1913,154,68,70,signal machine,Submarine Wireless Company
+US1166126,US1166126,B23B 3,1914,13,67,69,machine ,George O Gridley
+US1172058,US1172058,B21D 28,1912,11,69,71,automatic system,Emanuel Scheyer
+US1217572,US1217572,B23Q 35,1916,33.1,65,67,machine,Clarence C Craley
+US1238101,US1238101,C10G 27,1916,86,65,67,plastic,Crew Levick Company
+US1271603,US1271603,B65H 35,1914,82,67,69,automatic control,Nat Binding Machine Company
+US1274698,US1274698,G01B 3,1913,112,68,70,gaging machine,Westinghouse Electric & Mfg Co
+US1295572,US1295572,G05D 23,1918,172.1,63,65,radio system,Charles Engelhard
+US1298302,US1298302,G01G 11,1914,128,67,69,measure device,Bemiss N Davis
+US1300191,US1300191,G07C 3,1919,206.1,62,64,recording system,George D Pogue
+US1320580,US1320580,G05D 23,1917,172,64,66,set up device,American Rubber company
+US1322352,US1322352,B23B 7,1914,16,67,69,automatic lathe,L. Schellenbach
+US1338761,US1338761,B28C 7,1915,54,66,68,time control system,Koehring Machine Company
+US1340573,US1340573,B64D 43,1918,79,63,65,navigation machine,Joseph A Steinmetz
+US1343554,US1343554,B23D 5,1919,22.1,62,64,groove machine,William F Fischer
+US1346493,US1346493,G09F 13,1915,215,66,68,sign system,"Hammond William P, Quincy Moses Edmund"
+US1347695,US1347695,B43L 13,1919,63,62,64,pantograph,George Gillespie
+US1350899,US1350899,H02J 3,1918,245,63,65,electrical system,Gen Electric
+US1364078,US1364078,H04L 25,1918,328,63,65,telegraphic,Cushing Crehore Albert
+US1370540,US1370540,G06M 1,1919,201.1,62,64,counter system,Hussey Charlie F
+US1373586,US1373586,B24B 3,1919,42,62,64,grinding machine,Barnes William O
+US1381752,US1381752,B23B 7,1919,16.1,62,64,automatic lathe,Scheyer Rmanuel
+US1382821,US1382821,B25D 11,1920,45,61,63,power hammer,Chicago Pneumatic Tool Co
+US1407078,US1407078,G01G 23,1916,130,65,67,wegith control system,Murray Howard J
+US1416594,US1416594,G08B 25,1920,204.1,61,63,tele control,Western Union Telegraph Co
+US1418739,US1418739,H03B 5,1917,263,64,66,oscilliator,Western Electric Co
+US1431627,US1431627,G08C 19,1919,208.1,62,64,remote control,Bristol Company
+US1444242,US1444242,B21D 28,1921,11.1,60,62,spacing control,Faust Albert A
+US1444505,US1444505,G06M 1,1921,201.3,60,62,counting system,Shawmut Eng Co
+US1453555,US1453555,H01F 7,1920,227,61,63,electric control,Gen Electric
+US1455795,US1455795,G05D 3,1920,173.4,61,63,controlling production process,Lloyd Logan
+US1459730,US1459730,G06M 1,1919,201.2,62,64,register system,Harris Frank C
+US1460569,US1460569,B66B 1,1920,85,61,63,electric elevator system,Brodesser Peter H
+US1474673,US1474673,B23Q 35,1922,33.2,59,61,attachment lathe,Husted Monroe G
+US1476538,US1476538,G08B 5,1923,206,58,60,ELECTROnic control system,Evershed Vignoles Ltd
+US1485154,US1485154,G01B 3,1924,112.1,57,59,guage control,C E Johansson Inc
+US1492319,US1492319,E21B 47,1921,91,60,62,measure depth,Copeland Clint M
+US1503824,US1503824,G01B 5,1920,113,61,63,hasaiohic,Wsstsrbt Slectsic compaht
+US1508796,US1508796,G05D 3,1921,173.5,60,62,adjusting distance gun system,Siemens Ag
+US1515995,US1515995,G06G 7,1920,190,61,63,electric multiplying machine,Int Time Recording Co Ltd
+US1542038,US1542038,G08C 21,1916,211,65,67,telautograph device,Day Albert V T
+US1542127,US1542127,B23D 49,1924,21.1,57,59,portalble electric saw,Hastings Charles B
+US1552321,US1552321,H03K 17,1922,281,59,61,thermionic valve,Norman Lea
+US1554698,US1554698,G05D 3,1923,173.6,58,60,surge preventer,Gen Electric
+US1554980,US1554980,G08C 19,1923,208.4,58,60,calibrate motion,Gen Electric
+US1559992,US1559992,H04B 7,1922,311,59,61,radio system,Drahtlose Telegraphie M B H Ha
+US1562917,US1562917,G08C 19,1925,208.6,56,58,indicate device,Anschuetz & Co Gmbh
+US1564872,US1564872,B64C 13,1922,76,59,61,airplane control,William H Mcmullen
+US1569325,US1569325,G01S 1,1922,147,59,61,radio system,Drahtlose Telegraphie Gmbh
+US1573850,US1573850,G06G 7,1921,190.1,60,62,measuring factors,Naiman Julius M
+US1587122,US1587122,H02J 13,1921,244,60,62,electric switching,Western Electric Co
+US1589933,US1589933,B44B 1,1925,64,56,58,cameograph,Giuseppe Bontempi
+US1593164,US1593164,H04L 25,1924,328.1,57,59,electric sign control,Siemens Ag
+US1600204,US1600204,G08C 19,1924,208.5,57,59,angular motion,Gen Electric
+US1607182,US1607182,B23Q 11,1924,29,57,59,indicate device,Baker Walter W
+US1608527,US1608527,H03M 1,1921,301.1,60,62,facsimile system,Western Electric Co
+US1614147,US1614147,H02J 5,1926,247,55,57,automatic system,Gen Electric
+US1620020,US1620020,H01G 5,1923,228,58,60,condenser,Amsco Products Inc
+US1620374,US1620374,B27B 11,1925,53,56,58,electric saw,Maloney Edward J
+US1624156,US1624156,G03B 21,1925,156,56,58,film projector,Wyko Projector Corp
+US1637080,US1637080,H04L 15,1924,324.1,57,59,signaling system,Kesses Charles H
+US1640325,US1640325,H04M 3,1925,336,56,58,communication system,Western Union Telegraph Co
+US1641946,US1641946,H01G 5,1925,228.1,56,58,dielectric condensor,Howard J Murray
+US1643721,US1643721,B23D 49,1927,21.3,54,56,cincinnati,Henry A. Meyer
+US1648008,US1648008,B23D 49,1925,21.2,56,58,electric handsaw,Holland Furnace Co
+US1652715,US1652715,B65H 35,1925,82.1,56,58,dispense machine,Mike Kligman
+US1654238,US1654238,H02P 7,1927,258,54,56,remote control,Chandler Edward F
+US1661217,US1661217,A22B 5,1926,2,55,57,electric handsaw,Fred Farrell
+US1661651,US1661651,H01F 7,1927,227.1,54,56,electric control,Union Switch & Signal Co
+US1669107,US1669107,H02P 5,1927,256,54,56,automatic control,Gen Electric
+US1669112,US1669112,H02J 13,1924,244.1,57,59,electric control system,Gen Electric
+US1683581,US1683581,B23Q 35,1924,33.3,57,59,electric machine,Keller Mechanical Engineering
+US1684137,US1684137,F41G 5,1925,109,56,58,motor control,Gen Electric
+US1686327,US1686327,G05D 3,1924,173.7,57,59,tele control,Elek Sche App Mit Beschraenkte
+US1690279,US1690279,G10L 21,1925,220,56,58,visual interpretatoin,Edward B. Craft
+US1696512,US1696512,G01F 23,1924,126,57,59,indicate device,White Louis A
+US1698290,US1698290,H03B 5,1925,263.1,56,58,oscillation,Gen Electric
+US1700114,US1700114,B24B 23,1925,41,56,58,polishing machine,Claude H Thompson
+US1700115,US1700115,B24B 23,1926,41.1,55,57,polishing machine,Claude H Thompson
+US1703280,US1703280,G08C 19,1922,208.3,59,61,stabilizer,Nicolai Minorsky
+US170538,US170538,B23B 5,1875,15,85,87,tuning carriage,F One
+US1706731,US1706731,G10F 1,1924,217,57,59,photoelectric control,Jr John Hays Hammond
+US1711290,US1711290,B23Q 35,1924,33.4,57,59,electric tracer control,Keller Mechanical Engineering
+US1712763,US1712763,H04L 15,1926,324.2,55,57,telegrphic signal,Louis Hamel Charles
+US1718499,US1718499,A63J 17,1925,6,56,58,color display,Thomas Marguerite C
+US1719535,US1719535,H04L 15,1921,324,60,62,wireless telephone,Rca Corp
+US1722152,US1722152,H02M 7,1927,252,54,56,electric control system,Gen Electric
+US1723499,US1723499,G06F 7,1924,185,57,59,computing system,Tabulating Machine Co
+US1724057,US1724057,H04B 1,1925,307,56,58,radio control system,American Telephone & Telegraph
+US1726643,US1726643,G01C 19,1918,117,63,65,indicate device,Helge A Borresen
+US1727575,US1727575,H03J 3,1927,276,54,56,frequency control,Wired Radio Inc
+US1728311,US1728311,G06G 7,1927,190.2,54,56,electrical control system,Bell Telephone Labor Inc
+US1729595,US1729595,G01S 1,1927,147.1,54,56,distance measure device,Harvey C Hayes
+US1730283,US1730283,E05F 15,1927,90,54,56,control system,Westinghouse Electric & Mfg Co
+US1732635,US1732635,B65H 35,1927,82.2,54,56,strip system,Nashua Gummed & Coated Paper C
+US1732636,US1732636,B65H 35,1928,82.3,53,55,strip system,Nashua Gummed & Coated Paper
+US1733614,US1733614,H03B 19,1927,261,54,56,frequency control system,Bell Telephone Labor Inc
+US1738344,US1738344,H02J 3,1928,245.1,53,55,control system,Gen Electric
+US1739465,US1739465,B23D 5,1923,22.2,58,60,automatic cut system,Jorgensen & Co A
+US1742902,US1742902,H04J 3,1925,315,56,58,radio communication system,Western Electric Co
+US1743175,US1743175,G08G 1,1926,212,55,57,traffic control system,Westinghouse Electric & Mfg Co
+US1744835,US1744835,H03B 5,1925,263.2,56,58,frequency control system,American Telephone & Telegraph
+US1747664,US1747664,F41G 5,1929,109.1,52,54,automatic machine,Droitcour Howard Andrew
+US1749842,US1749842,G05D 3,1928,173.9,53,55,electric control,Krupp Ag
+US1754878,US1754878,H04H 1,1925,312,56,58,radio system,Edward F Colladay
+US1755975,US1755975,F41G 3,1927,108,54,56,indicate device,Gen Electric
+US1756915,US1756915,F16F 15,1926,100.2,55,57,single eccentric weight,Gen Motors Res Corp
+US1762725,US1762725,G01R 23,1928,141,53,55,indicate device,Bell Telephone Labor Inc
+US1768966,US1768966,G05D 3,1924,173.8,57,59,machine trasmission,Ford Instr Co Inc
+US1771445,US1771445,H04L 25,1928,328.2,53,55,telegraphy system,American Telephone & Telegraph
+US1771446,US1771446,H04L 25,1928,328.3,53,55,telegraphy system,American Telephone & Telegraph
+US1771551,US1771551,H01F 29,1928,226,53,55,transformer,Robert Strohschneider
+US1777796,US1777796,H03J 5,1927,277,54,56,tuning system,Hubbell Leroy S
+US1779923,US1779923,B25D 11,1927,45.1,54,56,rotary motion device,Emanuel Wagner
+US1787550,US1787550,B60L 15,1928,66,53,55,electric control,Union Switch & Signal Co
+US1788533,US1788533,H03B 5,1927,263.3,54,56,frequency control,Bell Telephone Labor Inc
+US1789804,US1789804,B23D 49,1927,21.4,54,56,saw,Irwin Rosenthal
+US1790722,US1790722,H04N 1,1934,338,47,49,photo,R. H. Ranger
+US1798044,US1798044,B60L 15,1928,66.1,53,55,remote control,Giacomo Somajni
+US1800760,US1800760,G08C 21,1929,211.1,52,54,remote control,Sleeper Res Lab Inc
+US1818963,US1818963,H02P 5,1930,256.1,51,53,speed control,Gen Electric
+US1819868,US1819868,H04M 3,1924,336.1,57,59,electric control system,Gen Electric
+US1825345,US1825345,G01C 19,1927,117.1,54,56,gyro,Schneider & Cie
+US1826762,US1826762,G01F 1,1924,125,57,59,ratio recorder,Bernard S Franklin
+US1826963,US1826963,H02P 1,1929,253,52,54,induction motor,Cutler Hammer Inc
+US1827586,US1827586,B07B 1,1930,8,51,53,vibrating mechanism,Walter L Keefer
+US1831614,US1831614,C10M,1930,87,51,53,gear,Six
+US1844243,US1844243,H02P 7,1931,258.1,50,52,motor control,Cutler Hammer Inc
+US1844950,US1844950,H04L 15,1929,324.3,52,54,automatic control,Rca Corp
+US1847105,US1847105,G01F 1,1926,125.1,55,57,electric registering,Republic Flow Meters Co
+US1849518,US1849518,B60M 3,1929,67,52,54,power supply system,Frazer W Gay
+US1849642,US1849642,B23Q 15,1930,30,51,53,motion control system,Max Schenker
+US1850640,US1850640,G08C 19,1920,208.2,61,63,sync transmssion system,Sperry Gyroscope Co Inc
+US1853284,US1853284,G09F 19,1927,216,54,56,visual interpretation,Norman I Prosser
+US1855509,US1855509,H04L 27,1929,330,52,54,radio system,Crosley Radio Corp
+US1862327,US1862327,G11B 7,1930,223,51,53,recording system,Rca Corp
+US1866838,US1866838,B23G 1,1930,25,51,53,radio control system,Victor C Thorne
+US1868507,US1868507,B24B 23,1930,41.2,51,53,portable sander,Freed A
+US1869209,US1869209,G01R 17,1931,140.1,50,52,thermer measure,Gen Electric
+US1871710,US1871710,G01R 7,1929,146,52,54,metering system,Westinghouse Electric & Mfg Co
+US1873842,US1873842,H03B 5,1929,263.4,52,54,frequency control system,Wired Radio Inc
+US1877605,US1877605,G05D 23,1931,172.2,50,52,motor control system,Honeywell Regulator Co
+US1882010,US1882010,B61L 7,1927,72,54,56,signaling system,Associated Electric Lab Inc
+US1883163,US1883163,H03J 1,1929,275,52,54,remote control system,Bell Telephone Labor Inc
+US1886616,US1886616,G11B 5,1931,222.1,50,52,recording system,Addison Invest Company
+US1887460,US1887460,B65H 35,1929,82.4,52,54,dispense machine,Nelson John H
+US1890877,US1890877,H04L 12,1930,321.2,51,53,electric signal system,Teleregister Corp
+US1893009,US1893009,G06G 7,1929,190.3,52,54,calculator,Bethlehem Steel Corp
+US1893205,US1893205,B24B 49,1930,44,51,53,guage control,New Departure Mfg Co
+US1894025,US1894025,G01B 3,1927,112.2,54,56,guage control,Western Electric Co
+US1896052,US1896052,B23Q 5,1930,38,51,53,hydraulic,Oilgear Co
+US1896805,US1896805,G05D 1,1930,170,51,53,radio system, Sperry Gyroscope Co Inc
+US1898477,US1898477,H04J 9,1929,319,52,54,fading elimination,Telefunken Gmbh
+US1901628,US1901628,H02H 3,1929,241,52,54,electric device,Westinghouse Electric & Mfg Co
+US1909471,US1909471,H03K 17,1928,281.1,53,55,electric timing device,Stirlen Engineering & Res Corp
+US1910254,US1910254,H04S 3,1929,350,52,54,sound record,Bell Telephone Labor Inc
+US1911178,US1911178,B60L 15,1930,66.2,51,53,control system,Bbc Brown Boveri & Cie
+US1912707,US1912707,B44B 3,1929,65,52,54,printing machine,James H Harriman
+US1913200,US1913200,G01R 13,1931,138,50,52,ocsillograph,Gen Electric
+US1916997,US1916997,G06K 13,1927,196,54,56,calculator,Tabulating Machine Co
+US1921983,US1921983,G01C 19,1930,117.2,51,53,gyro,Sperry Gyroscope Co Inc
+US1924003,US1924003,B23C 3,1931,18,50,52,cutting machine,Pratt & Whitney Co
+US1925904,US1925904,G01B 7,1928,114,53,55,guage control,Goodrich Co B F
+US1926875,US1926875,H03C 1,1932,265,49,51,modulator,Beil Telephone Lab Inc
+US1927702,US1927702,G06F 7,1932,185.2,49,51,computer device,Int Communications Lab Inc
+US1928093,US1928093,H04J 3,1927,315.1,54,56,signal system,Coyle Harold B
+US1928812,US1928812,H02K 33,1930,250,51,53,electric control system,Westinghouse Electric & Mfg Co
+US1930155,US1930155,B30B 15,1931,57,50,52,hydraulic press,Oilgear Co
+US1930159,US1930159,G05D 3,1928,174,53,55,radio remote control system,Crilly William P
+US1930278,US1930278,H03B 19,1928,261.1,53,55,ocsillograph,Bell Telephone Labor Inc
+US1930609,US1930609,H04L 27,1932,330.1,49,51,signaling system,American Telephone & Telegraph
+US1931873,US1931873,H04H 20,1931,313,50,52,frequency control,Bell Telephone Labor Inc
+US1932589,US1932589,H03B 19,1932,261.2,49,51,frequency control system,American Telephone & Telegraph
+US1934753,US1934753,H04N 1,1928,338.1,53,55,trans facsimiles,Ernest Wildhaber
+US1936153,US1936153,H04L 25,1928,328.4,53,55,electric transmission system,Bell Telephone Labor Inc
+US1936947,US1936947,H04L 25,1931,328.7,50,52,telegraph system,Western Union Telegraph Co
+US1938684,US1938684,G01R 31,1931,145,50,52,testing machine,Bell Telephone Labor Inc
+US1938781,US1938781,B23C 1,1931,17,50,52,milling machine,Cincinnati Milling Machine Co
+US1939443,US1939443,G05B 24,1931,169,50,52,regulator system,Westinghouse Electric & Mfg Co
+US1939706,US1939706,F41G 3,1931,108.1,50,52,gun system,Karnes James C
+US1942209,US1942209,B23Q 17,1932,32,49,51,machine tool,Brown & Sharpe Mfg
+US1942602,US1942602,H03B 5,1929,263.5,52,54,radio system,Wired Radio Inc
+US1945496,US1945496,B30B 1,1932,56,49,51,press actuate machine,Cushman Chuck Company
+US1946531,US1946531,H04L 12,1930,321.3,51,53,electric signal system,Teleregister Corp
+US1947249,US1947249,H04M 11,1930,333,51,53,telegraphy system,Vannevar Bush
+US1948185,US1948185,F16F 9,1931,101,50,52,shock absorber,Padgett Joseph E
+US1949509,US1949509,B23D 51,1929,23.2,52,54,cutting machine,Int Register Co
+US1950011,US1950011,G11B 7,1931,223.1,50,52,recording system,Wired Radio Inc
+US1951523,US1951523,G01B 9,1930,115,51,53,electric control system,Communications Patents Inc
+US1951733,US1951733,H02J 3,1929,245.2,52,54,power controller,Products Prot Corp
+US1954142,US1954142,H02P 25,1931,255,50,52,control system,Gen Electric
+US1955322,US1955322,H02P 25,1932,255.2,49,51,motor control,Westinghouse Electric & Mfg Co
+US1956581,US1956581,B23K 7,1932,27,49,51,reproduce machine,Marguerite Krebs
+US1957672,US1957672,H04Q 3,1928,344,53,55,telephone system,Associated Electric Lab Inc
+US1958258,US1958258,G05D 1,1931,170.1,50,52,automatic machine,Gen Electric
+US1959178,US1959178,B23Q 35,1933,33.8,48,50,tracker control,Cincinnati Milling Machine Co
+US1959298,US1959298,H02P 9,1933,260,48,50,regulator system,Westinghouse Electric & Mfg Co
+US1960945,US1960945,B65H 35,1930,82.5,51,53,strip system,Krueger Theodore H
+US1962943,US1962943,H02J 3,1932,245.3,49,51,control system,Gen Electric
+US1963600,US1963600,H04M 3,1930,336.2,51,53,signaling system,Associated Electric Lab Inc
+US1965377,US1965377,H04Q 1,1931,342,50,52,regenerator unit,Teleregister Corp
+US1966077,US1966077,H02H 9,1931,243,50,52,surge abstorbing system,Radio Patents Corp
+US1967255,US1967255,C10M 159,1928,88,53,55,lubricant process,William B D Penniman
+US1969500,US1969500,F01B 17,1933,92,48,50,crank ,Timken Roller Bearing Co
+US1971313,US1971313,G01R 13,1933,138.1,48,50,indicate device,Lewis Eng Co
+US1973279,US1973279,G05D 3,1933,174.3,48,50,electric control,Westinghouse Electric & Mfg Co
+US1974207,US1974207,H03J 5,1929,277.1,52,54,movement system,Morris Goldstein
+US1974642,US1974642,B26F 1,1928,52.1,53,55,cutting machine,Int Register Co
+US1975023,US1975023,H02P 5,1933,256.2,48,50,remote control system,Paul Duclos Ets
+US1975791,US1975791,B41J 5,1928,62,53,55,typewriter actuator,Edwin Hopkins
+US1976400,US1976400,H03K 4,1931,293,50,52,cathode ray scanning,Telefunken Gmbh
+US1977536,US1977536,H03C 1,1932,265.1,49,51,electrical control system,Tubbs Ernest A
+US1977624,US1977624,G05D 3,1930,174.1,51,53,position control system,Arma Engineering Co Inc
+US1977997,US1977997,A63J 17,1931,6.1,50,52,control system,Rca Corp
+US1980146,US1980146,H03K 17,1933,281.2,48,50,time control system,Philips Nv
+US1980585,US1980585,H03J 5,1933,277.4,48,50,radio control system,Hygrade Sylvania Corp
+US1981224,US1981224,B23C 1,1932,17.1,49,51,automatic position machine,Associated Patents Inc
+US1982216,US1982216,G06K 13,1933,196.1,48,50,sorting machine,Ibm
+US1983229,US1983229,H02P 5,1933,256.3,48,50,displacement control,G & J Weir Ltd
+US1986915,US1986915,F03B 15,1933,94,48,50,hydraulic system,James Leffel And Company
+US1992055,US1992055,H01J 40,1932,237,49,51,photoelectric,Gen Electric
+US1992727,US1992727,H04R 19,1928,349,53,55,electric phonograph,American Telephone & Telegraph
+US1992945,US1992945,H04L 12,1930,321.4,51,53,order device,Teleregister Corp
+US1993413,US1993413,B30B 15,1932,57.1,49,51,electric control,Clark Controller Co
+US1994232,US1994232,G01R 27,1933,143,48,50,frequency control system,Jr Oscar H Schuck
+US1994757,US1994757,G01F 1,1931,125.2,50,52,controll physical change,Florez
+US1996665,US1996665,B65C 11,1933,80,48,50,vend dispense machine,Charles Walker
+US1998938,US1998938,G05D 3,1932,174.2,49,51,electronic control system,Gen Electric
+US1998939,US1998939,B23Q 35,1934,33.9,47,49,contouring device,Gen Electric
+US1999378,US1999378,H03K 4,1932,293.1,49,51,television system,Rca Corp
+US2000678,US2000678,H03G 3,1932,271.1,49,51,CONDENSOR,Rca Corp
+US2002353,US2002353,H03J 1,1932,275.2,49,51,remote control,Fed Telegraph Co
+US2002374,US2002374,B26D 5,1930,50,51,53,control system,Gen Electric
+US2003968,US2003968,G11B 5,1931,222.2,50,52,telegraphy system,Bell Telephone Labor Inc
+US2004294,US2004294,H03G 3,1931,271,50,52,automatic volume control,Rca Corp
+US2004613,US2004613,H03H 7,1935,274,46,48,phase shifting,Bell Telephone Labor Inc
+US2005018,US2005018,B23Q 5,1931,38.2,50,52,hydraulic machine,Lapointe Machine Tool Co
+US2005153,US2005153,H04N 5,1931,339,50,52,sync system,Communications Patents Inc
+US2005425,US2005425,G11B 7,1931,223.2,50,52,recording system,Kwartin Bernard
+US2006737,US2006737,H05B 41,1935,352,46,48,flash device,Westinrhonse Electric a Manufacturing Com
+US2007577,US2007577,H03J 1,1933,275.3,48,50,remote control,LAB Corp
+US2008399,US2008399,H02H 7,1934,242,47,49,back arc,Westinghouse Electric & Mfg Co
+US2008623,US2008623,G01F 3,1933,127,48,50,fluid meter,Mcgogy Donald H
+US2008909,US2008909,G08B 5,1929,206.1,52,54,signal system,Associated Electric Lab Inc
+US2010158,US2010158,F15B 11,1930,97,51,53,signaling system,Teletype Corp
+US20110066282,US20110066282,B25J 19,2009,46,6,8,collision avoidance scheme,"Harris Corporation, Corporation Of The State Of Delaware"
+US20110172819,US20110172819,B25J 9,2011,47.5,4,6,manipulator control,"Samsung Electronics Co., Ltd."
+US2012249,US2012249,B23C 9,1933,19,48,50,automatic position machine,Cincinnati Milling Machine Co
+US20130325030,US20130325030,A61B 19,2013,4,3,5,collision avoidance scheme,"Intuitive Surgical Operations, Inc."
+US2013649,US2013649,F16D 67,1930,99,51,53,clutch,Colman Howard D
+US20150005785,US20150005785,A61B 19,2016,4.2,1,3,robot arm collision,"St. Jude Medical, Atrial Fibrillation Division, Inc."
+US2017920,US2017920,B65H 20,1935,81,46,48,printing machine,Nat Postal Meter Company
+US2018268,US2018268,G01R 23,1931,141.1,50,52,indicate device,Westinghouse Electric & Mfg Co
+US2018399,US2018399,B07C 5,1932,9,49,51,guage control,Western Electric Co
+US2018720,US2018720,B30B 15,1935,57.2,46,48,electronic control system,Cutler Hammer Inc
+US2018820,US2018820,H03L 7,1932,298,49,51,frequency control,Rca Corp
+US2020868,US2020868,B23Q 5,1930,38.1,51,53,boring machine,W F & John Barnes Company
+US2021099,US2021099,H04Q 9,1933,347,48,50,electric control system,Gerald Alan S Fitz
+US2021743,US2021743,H04J 3,1930,315.2,51,53,signaling system,Communications Patents Inc
+US2023221,US2023221,G01R 17,1929,140,52,54,remote control system,Siemens Ag
+US2023436,US2023436,H03K 3,1933,290,48,50,arrangement current,Telefunken Gmbh
+US2025218,US2025218,H03J 1,1929,275.1,52,54,remote control for radioreceiver,Fed Telegraph Co
+US2025748,US2025748,B23Q 35,1932,33.6,49,51,pattern control,Atlantic Prec Instr Company
+US2025978,US2025978,B60R 16,1932,68,49,51,electric switching,Getty Fred I
+US2026330,US2026330,G06K 9,1932,200,49,51,reading machine,Gustav Tausch
+US2029335,US2029335,G05B 19,1933,164.1,48,50,control machine,Ingersoll Milling Machine Co
+US2031503,US2031503,B26D 5,1930,50.1,51,53,light cell control,Griffith Rainey Alexander
+US2031639,US2031639,H03C 1,1933,265.2,48,50,modulator,Rca Corp
+US2032597,US2032597,B23B 7,1933,16.2,48,50,automatic lathe,Pratt & Whitney Co
+US2032598,US2032598,B23Q 15,1934,30.1,47,49,automatic lathe,Pratt & Whitney Co
+US2034708,US2034708,H03J 5,1934,277.5,47,49,remote control system,Bell Telephone Labor Inc
+US2034738,US2034738,H04B 7,1932,311.1,49,51,radio system,Rca Corp
+US2036983,US2036983,H02P 5,1935,256.5,46,48,sync system,Gen Electric
+US2041245,US2041245,H04J 3,1933,315.4,48,50,signaling system,Radio Res Lab Inc
+US2043923,US2043923,C10M,1934,87.1,47,49,lubricant process,Alox Corp
+US2044618,US2044618,H01J 17,1933,234,48,50,electronic control system,Gen Electric
+US2046328,US2046328,H04L 21,1930,327,51,53,printing telegraph system,Teletype Corp
+US2047922,US2047922,B63B 29,1933,73,48,50,gyro,Nl Tech Handel Mij Giro
+US2048081,US2048081,H04J 3,1933,315.5,48,50,communication system,Riggs Alger S
+US2048192,US2048192,G06M 1,1932,201.4,49,51,counting system,Marston Curtis A
+US2049376,US2049376,H03K 21,1932,283,49,51,electrical system,Gen Electric
+US2050059,US2050059,H03K 3,1934,290.1,47,49,relay system,Rca Corp
+US2050629,US2050629,G01F 23,1934,126.1,47,49,electric tele control,Leeds & Northrup Co
+US2052255,US2052255,B26D 5,1932,50.2,49,51,control system,Gen Electric
+US2052263,US2052263,B26D 5,1932,50.3,49,51,control system,Gen Electric
+US2052539,US2052539,H04L 12,1928,321,53,55,electric indicate system,Teleregister Corp
+US2055031,US2055031,H01H 43,1930,230,51,53,control system,Prosperity Co Inc
+US2055309,US2055309,H04J 3,1931,315.3,50,52,communication system,George Ramsey
+US2055363,US2055363,H03J 5,1929,277.2,52,54,remote control,Stromberg Carlson Telephone
+US2056769,US2056769,G05B 11,1934,162,47,49,electric control system,Siemens Ag
+US2057111,US2057111,H04L 17,1933,326,48,50,telegraphy system,Teletype Corp
+US2057820,US2057820,B23K 7,1932,27.1,49,51,cutting and profiling,Air Reduction
+US2058114,US2058114,H03L 7,1932,298.1,49,51,frequency control,Rca Corp
+US2061734,US2061734,H03K 7,1934,296,47,49,signaling system,Rca Corp
+US2064454,US2064454,H02P 25,1931,255.1,50,52,machine speed control,Sperry Gyroscope Co Inc
+US2066617,US2066617,B65H 35,1936,82.7,45,47,dispense machine,Nashua Gummed & Coated Paper
+US2066619,US2066619,B65H 35,1936,82.8,45,47,dispense machine,Nashua Gummed & Coated Paper
+US2066949,US2066949,G01C 21,1936,118.1,45,47,navigation machine,Gen Electric
+US2067145,US2067145,B61L 7,1932,72.1,49,51,traffic control system,Gen Railway Signal Co
+US2068293,US2068293,H04J 1,1930,314,51,53,electric machine,American Telephone & Telegraph
+US2071180,US2071180,B23Q 15,1935,30.2,46,48,electric control,Niles Bement Pond Co
+US2076335,US2076335,H03K 5,1933,295,48,50,slsecting device,Meaf Mach En Apparaten Fab Nv
+US2078667,US2078667,H02J 3,1935,245.4,46,48,automatic control system,Westinghouse Electric & Mfg Co
+US2079429,US2079429,G06F 7,1930,185.1,51,53,interpretating card,Ibm
+US2079837,US2079837,F16H 63,1935,104,46,48,power mechanism,Buckley Arthur H
+US2080186,US2080186,G01C 21,1934,118,47,49,remote control,Reymond Henry Claude
+US2082607,US2082607,H02J 7,1936,248,45,47,electric system,Gen Electric
+US2085442,US2085442,G05D 3,1935,174.6,46,48,remote control system,Newell Arthur B
+US2087039,US2087039,G06M 7,1932,204,49,51,counting system,G M Lab Inc
+US2087667,US2087667,G01G 7,1934,131,47,49,computer device,Pennsylvania Railroad Co
+US2087782,US2087782,H02P 5,1934,256.4,47,49,speed control,Rossman Engineering Company
+US2088654,US2088654,G05D 3,1935,174.7,46,48,position control system,Sperry Gyroscope Co Inc
+US2088659,US2088659,G05D 3,1933,174.4,48,50,phase shifting,Sperry Gyroscope Co Inc
+US2089441,US2089441,G08C 19,1934,208.7,47,49,telemetric device,Builders Iron Foundry
+US2089936,US2089936,G06M 7,1932,204.1,49,51,counter system,Ahlburg Frank
+US2091152,US2091152,H01J 31,1936,236,45,47,ocsillograph,Gen Electric
+US2091562,US2091562,F24F 3,1935,106,46,48,air conditioning,B F Sturtevant Co
+US2092142,US2092142,B23C 3,1936,18.1,45,47,automatic system,Schuz Hans
+US2092442,US2092442,H04J 3,1936,315.6,45,47,communication system,Cameron Colwell Robert
+US2093197,US2093197,H02M 7,1933,252.1,48,50,electric control system,Bbc Brown Boveri & Cie
+US2094777,US2094777,H03J 5,1929,277.3,52,54,selective control system,Morris Goldstein
+US2095730,US2095730,H04M 1,1929,332,52,54,computing system,Associated Electric Lab Inc
+US2096954,US2096954,H04L 25,1930,328.6,51,53,computing system,Associated Electric Lab Inc
+US2097392,US2097392,H04L 17,1936,326.1,45,47,electronic control system,Finch William G H
+US2098051,US2098051,H04L 27,1936,330.2,45,47,oscillation,Gen Electric
+US2098227,US2098227,G01S 3,1934,152,47,49,telegraphy system,Csf
+US2098587,US2098587,G04C 23,1931,158,50,52,automatic radio control,Markowitz Jesse
+US2098695,US2098695,G01R 13,1934,138.2,47,49,electrocardiograph,Southwick Laurence F
+US2098872,US2098872,G06M 7,1933,204.2,48,50,electric control,"Bur Arnold G, Heins Rudolf J, Krippner Philip G"
+US2099065,US2099065,H04L 13,1935,323.1,46,48,distributor device,American Telephone & Telegraph
+US2100375,US2100375,H03G 3,1936,271.2,45,47,gain control,Bell Telephone Labor Inc
+US2100934,US2100934,B64C 17,1936,77,45,47,airplane control,Eclipse Aviat Corp
+US2101754,US2101754,B23Q 5,1937,38.4,44,46,carraige control,Anna M Randall
+US2103297,US2103297,H04L 12,1931,321.8,50,52,computing system,Associated Electric Lab Inc
+US2104200,US2104200,B23K 9,1936,28,45,47,weld control,Smith Corp A O
+US2104690,US2104690,H02M 1,1936,251,45,47,electric valve,Gen Electric
+US2104801,US2104801,G01R 23,1934,141.2,47,49,frequency control,Rca Corp
+US2105016,US2105016,H04M 7,1936,337,45,47,telephone system,Associated Electric Lab Inc
+US2106342,US2106342,H04B 1,1936,307.1,45,47,electric discharge,Bell Telephone Labor Inc
+US2108025,US2108025,B23Q 35,1930,33.5,51,53,hydraulic machine,Niles Bement Pond Co
+US2108146,US2108146,G06G 7,1930,190.4,51,53,ratio computer,Automatic Telephone & Elect
+US2111607,US2111607,H04B 3,1935,310,46,48,telephone system,Bell Telephone Labor Inc
+US2111643,US2111643,G01V 1,1935,154.1,46,48,seismometer,Western Geophysical Company
+US2113011,US2113011,H03B 19,1936,261.3,45,47,thermionic valve,Emi Ltd
+US2113164,US2113164,G05D 23,1932,172.3,49,51,record and reproduce,Leeds & Northrup Co
+US2113165,US2113165,H02P 25,1935,255.3,46,48,speed control,Rca Corp
+US2113214,US2113214,H04B 14,1936,309.1,45,47,frequency control system,Rca Corp
+US2114013,US2114013,F16K 31,1935,105,46,48,valve control,Ball Russell C
+US2114330,US2114330,H01C 10,1934,225,47,49,divider,Bristol Company
+US2115086,US2115086,G05D 3,1933,174.5,48,50,remote control,Sperry Gyroscope Co Inc
+US2115834,US2115834,H02P 7,1932,258.2,49,51,motor control,Taylor Instrument Co
+US2116593,US2116593,B23Q 35,1934,34,47,49,cutting or milling machine,Western Electric Co
+US2117752,US2117752,H03B 19,1936,261.4,45,47,harmonic,Bell Telephone Labor Inc
+US2118944,US2118944,G06M 1,1934,201.5,47,49,control system,Western Electric Co
+US2120882,US2120882,H03C 1,1935,265.3,46,48,modulator,Stuart Ballantine
+US2122464,US2122464,H03K 25,1932,288,49,51,electrical control system,Associated Electric Lab Inc
+US2123142,US2123142,G06G 7,1932,190.5,49,51,calculating device,G M Lab Inc
+US2124906,US2124906,G06F 7,1938,185.4,43,45,computing machine,Ibm
+US2125584,US2125584,B24B 19,1937,40,44,46,adjusting device,Rotzoll Erich
+US2126910,US2126910,G05D 1,1935,170.2,46,48,electrical control system,Sperry Gyroscope Co Inc
+US2127687,US2127687,B64C 11,1930,75,51,53,propeller,American Propeller Company
+US2128361,US2128361,H05B 37,1934,351,47,49,electric system,Cutler Hammer Inc
+US2129049,US2129049,B23Q 17,1938,32.2,43,45,milling machine,Gray & Co G A
+US2129920,US2129920,G05F 1,1936,179,45,47,electric control system,Gerald Alan S Fitz
+US2130172,US2130172,H03C 3,1936,267,45,47,radio system,Armstrong Edwin H
+US2131759,US2131759,G05D 3,1937,175.3,44,46,machine control,Submarine Signal Co
+US2132213,US2132213,G01C 13,1936,116,45,47,recording system,Bell Telephone Labor Inc
+US2132654,US2132654,H04N 5,1934,339.1,47,49,electrical control system,Rca Corp
+US2133161,US2133161,B30B 15,1937,57.3,44,46,electric power control,Clark Controller Co
+US2133456,US2133456,H04L 25,1936,328.9,45,47,telegraphy system,Bell Telephone Labor Inc
+US2134118,US2134118,H04L 12,1930,321.5,51,53,automatic monitoring,Int Standard Electric Corp
+US2134743,US2134743,B23Q 17,1936,32.1,45,47,position control system,Ingersoll Milling Machine Co
+US2134901,US2134901,G05D 3,1936,174.9,45,47,electric control,Republic Flow Meters Co
+US2134982,US2134982,B61L 1,1935,69,46,48,train system,Gen Railway Signal Co
+US2137545,US2137545,H04N 5,1936,339.2,45,47,circuit detector,Firm Of Fernseh Ag
+US2137847,US2137847,G05D 1,1936,170.3,45,47,moving machine,Gen Electric
+US2138862,US2138862,A61B 17,1936,3,45,47,utility tool,Walter E Johnston
+US2139057,US2139057,G01S 19,1932,151,49,51,radio system,Washington Inst Of Technology
+US2139079,US2139079,H04L 25,1928,328.5,53,55,translator,Teleregister Corp
+US2139558,US2139558,G05D 3,1935,174.8,46,48,gyro,Sperry Gyroscope Co Inc
+US2140138,US2140138,H04M 1,1937,332.1,44,46,impulse measure system,Bell Telephone Labor Inc
+US2141237,US2141237,H04L 25,1935,328.8,46,48,electric telegrphy,Commercial Cable Company
+US2142602,US2142602,G01P 1,1936,137,45,47,phtoelectric control,Blethen Fredrick W
+US2142882,US2142882,B23B 5,1938,15.1,43,45,contouring device,Sellers William & Co Inc
+US2143035,US2143035,G01S 1,1935,147.2,46,48,distance measure device,Submarine Signal Co
+US2144337,US2144337,G06G 7,1936,190.7,45,47,electrical device,Rca Corp
+US2144735,US2144735,B23Q 5,1936,38.3,45,47,machine tool,Sundstrand Machine Tool Co
+US2146876,US2146876,H04N 7,1937,341,44,46,transmission system,Rca Corp
+US2147728,US2147728,H01Q,1937,238,44,46,phase shifting,Bell Telephone Labor Inc
+US2148026,US2148026,B65H 35,1934,82.6,47,49,tape serve machine,Krueger Theodore H
+US2148267,US2148267,G01S 1,1935,147.3,46,48,radio system,Henri Honore Etienne Augustin
+US2148578,US2148578,H04Q 1,1935,342.1,46,48,signal system,Bell Telephone Labor Inc
+US2150032,US2150032,B23Q 5,1937,38.5,44,46,machine speed control,Vickers Inc
+US2150776,US2150776,G08G 1,1935,212.1,46,48,traffic anallyzer,Gen Electric
+US2150813,US2150813,F16K 31,1938,105.1,43,45,valve control,Ball Russell C
+US2152336,US2152336,H03J 7,1937,279.1,44,46,remote control,Philips Nv
+US2154252,US2154252,B41C 1,1936,59,45,47,routing machine,Shilkoff
+US2154354,US2154354,H02P 9,1937,260.1,44,46,regulator system,Russell Ranson
+US2154492,US2154492,H03K 3,1936,290.2,45,47,radio signal system,Rca Corp
+US2155229,US2155229,H02H 11,1936,240,45,47,protective system,Gen Electric
+US2155267,US2155267,G01B 7,1937,114.1,44,46,foil guage,Gen Electric
+US2158285,US2158285,G04F 10,1937,159,44,46,impulse measure system,Rca Corp
+US2158584,US2158584,G01S 1,1935,147.4,46,48,navigation machine,Siemens App & Maschinen Gmbh
+US2162491,US2162491,B23Q 35,1937,34.3,44,46,tracer machine,Rosen Oscar E
+US2163632,US2163632,H02P 7,1936,258.3,45,47,rotation control,Submarine Signal Co
+US2164032,US2164032,H04B 14,1930,309,51,53,radio system,Day Albert V T
+US2164728,US2164728,G05D 3,1936,175,45,47,electric control,Republic Flow Meters Co
+US2165733,US2165733,G06M 1,1935,201.6,46,48,counter system,Veeder Root Inc
+US2165800,US2165800,G05D 1,1937,170.4,44,46,navigation machine,Rca Corp
+US2165892,US2165892,G08C 15,1935,207,46,48,telemetric device,American Telephone & Telegraph
+US2166316,US2166316,B61L 5,1937,71,44,46,train system,Union Switch & Signal Co
+US2166688,US2166688,H04N 5,1937,339.3,44,46,television system,Rca Corp
+US2166785,US2166785,H02J 3,1937,245.5,44,46,sync system,Gen Electric
+US2166824,US2166824,G01J 5,1936,133,45,47,temperature control,Gen Electric
+US2167189,US2167189,B23B 39,1937,14.1,44,46,machine tool,Verderber Joseph
+US2167484,US2167484,G05D 3,1938,175.7,43,45,follow up control,Gen Electric
+US2168047,US2168047,G08C 21,1936,211.2,45,47,electric control,Bell Telephone Labor Inc
+US2168460,US2168460,G08B 25,1935,204.2,46,48,signaling system,Ibm
+US2169026,US2169026,B26D 5,1938,50.4,43,45,cutter register,Westinghouse Electric & Mfg Co
+US2169135,US2169135,B23Q 35,1938,34.5,43,45,hydraulic device,Brandenberger Heinrich
+US2170087,US2170087,G01C 9,1936,120,45,47,indicate device,Harry L Mcpherson
+US2170751,US2170751,H04B 1,1937,307.3,44,46,frequency control system,Gabrilovitch Leonide
+US2171151,US2171151,H03C 1,1936,265.4,45,47,modulator,Telefunken Gmbh
+US2172313,US2172313,B23Q 35,1935,34.1,46,48,automatic control,Union Carbide & Carbon Corp
+US2172354,US2172354,H04J 3,1936,315.7,45,47,signaling system,Emi Ltd
+US2173921,US2173921,B23K 11,1936,26,45,47,welding timer,Cutler Hammer Inc
+US2175009,US2175009,B23K 9,1938,28.1,43,45,electric control,Gen Electric
+US2175320,US2175320,H03J 7,1938,279.2,43,45,remote control,Telefunken Gmbh
+US2175573,US2175573,H01J 31,1936,236.1,45,47,electric beam,Telefunken Gmbh
+US2176742,US2176742,G05D 3,1936,175.1,45,47,frequency control,Gen Electric
+US2178131,US2178131,B23Q 35,1938,34.6,43,45,copying machine,Deckel Friedrich
+US2178333,US2178333,H04B 3,1938,310.1,43,45,gain control,Bell Telephone Labor Inc
+US2179690,US2179690,H04L 25,1936,329,45,47,telemetric device,Western Union Telegraph Co
+US2179822,US2179822,G06G 5,1937,189,44,46,balacne computer,Lewis W Imm
+US2179915,US2179915,H04B 3,1938,310.2,43,45,gain control,Bell Telephone Labor Inc
+US2181682,US2181682,H04L 12,1930,321.6,51,53,electric indicate system,Teleregister Corp
+US2182555,US2182555,H03K 3,1937,290.3,44,46,frequency control system,Telefunken Gmbh
+US2183725,US2183725,G05D 3,1937,175.4,44,46,remote control system,Rca Corp
+US2185199,US2185199,H04L 27,1938,330.3,43,45,keying system,Rca Corp
+US2185363,US2185363,H03K 4,1937,293.2,44,46,thermionic valve,Emi Ltd
+US2185367,US2185367,H03F 3,1937,270,44,46,thermer valev control,Emi Ltd
+US2185693,US2185693,H04J 3,1938,315.8,43,45,signaling system,Bell Telephone Labor Inc
+US2186268,US2186268,G01R 13,1937,138.3,44,46,recording system,Westinghouse Electric & Mfg Co
+US2187364,US2187364,B64C 11,1936,75.1,45,47,airplane control,Paulin Jean Pierre Ratie
+US2189898,US2189898,G06G 7,1933,190.6,48,50,communication system,Bell Telephone Labor Inc
+US2191997,US2191997,G01R 17,1938,140.2,43,45,measure and control,Brown Instr Co
+US2192217,US2192217,H04L 12,1930,321.7,51,53,computing system,Associated Electric Lab Inc
+US2193606,US2193606,G01J 3,1937,132,44,46,photosensitive,Westinghouse Electric & Mfg Co
+US2193850,US2193850,H03K 4,1938,293.4,43,45,oscillation,Telefunken Gmbh
+US2195006,US2195006,B26D 5,1938,50.5,43,45,register control,Westinghouse Electric & Mfg Co
+US2196385,US2196385,G05D 1,1938,170.5,43,45,navigation machine,Florez De
+US2198248,US2198248,H04B 1,1936,307.2,45,47,communication system,Rca Corp
+US2199547,US2199547,G06F 7,1932,185.3,49,51,recording system,Ibm
+US2199634,US2199634,H04K 1,1938,320,43,45,communication system,Rca Corp
+US2199820,US2199820,H03H 11,1937,273,44,46,radio system,Bell Telephone Labor Inc
+US2201174,US2201174,G05D 1,1938,170.6,43,45,automatic airplane,Sperry Gyroscope Co Inc
+US2203468,US2203468,H03K 17,1938,281.3,43,45,time control system,Rca Corp
+US2203689,US2203689,G05D 23,1937,172.4,44,46,record and control,Foxboro Co
+US2204290,US2204290,G05D 1,1938,170.7,43,45,automatic control,Robert Alkan
+US2204438,US2204438,G01S 1,1937,147.6,44,46,navigation machine, Neufeld Jacob
+US2205555,US2205555,G08G 1,1938,212.2,43,45,treadle circuit,Benjamin Cooper
+US2206852,US2206852,H01J 40,1935,237.1,46,48,testing machine,Illinois Tool Works
+US2207709,US2207709,G01S 1,1935,147.5,46,48,radio system,Sperry Gyroscope Co Inc
+US2207743,US2207743,G08C 19,1935,208.8,46,48,tele control,Teletype Corp
+US2207744,US2207744,G08C 19,1937,209,44,46,coding mechanism,Teletype Corp
+US2208378,US2208378,G01S 1,1938,147.7,43,45,indicate radio purpose,Rca Corp
+US2208635,US2208635,G01D 5,1939,124,42,44,displacement control,Axel H Johnson
+US2209395,US2209395,H03B 19,1937,261.5,44,46,signal system,Ibm
+US2209507,US2209507,H04N 5,1939,339.4,42,44,sync system,Du Mont Allen B Lab Inc
+US2210574,US2210574,H03K 5,1938,295.1,43,45,signal system,Ibm
+US2211942,US2211942,H04N 5,1938,339.5,43,45,electrical signal control,Emi Ltd
+US2212799,US2212799,G06G 7,1938,190.8,43,45,harmonic analyzer,Sperry Arthur B
+US2212967,US2212967,H03K 5,1938,295.2,43,45,television system,Emi Ltd
+US2213108,US2213108,B25J 9,1934,47,47,49,painting machine, Pollard Jr Willard Lacey Georg
+US2213246,US2213246,G11B 5,1937,222.3,44,46,magnetic sound recording,Herman S Heller
+US2213941,US2213941,H04J 3,1938,315.9,43,45,signaling system,Bell Telephone Labor Inc
+US2215776,US2215776,H03K 4,1937,293.3,44,46,cathod ray system,Int Standard Electric Corp
+US2216454,US2216454,H03G 7,1938,272,43,45,volume control,Telefunken Gmbh
+US2218818,US2218818,B21D 37,1937,12,44,46,hydraulic machine,Vickers Inc
+US2220872,US2220872,F16H 21,1939,102.1,42,44,motion converting,Petco Inc
+US2221516,US2221516,G01B 7,1937,114.2,44,46,thickness control system,Gen Electric
+US2221517,US2221517,H02M 1,1938,251.1,43,45,electric control,Gen Electric
+US2222947,US2222947,G05D 23,1939,172.5,42,44,control system,Brown Instr Co
+US2224646,US2224646,B07C 5,1937,9.1,44,46,electric control system,"William F Friedman, Vernon E Whitman"
+US2224677,US2224677,H04Q 3,1939,344.1,42,44,signaling system,Bell Telephone Labor Inc
+US2225680,US2225680,H04M 1,1937,332.2,44,46,impulse system,Boswau Hans P
+US2226677,US2226677,B23Q 35,1936,34.2,45,47,automatic machine,Vikhman Victor
+US2227285,US2227285,B23K 11,1938,26.1,43,45,welding controller,Cutler Hammer Inc
+US2228843,US2228843,H02M 7,1937,252.2,44,46,electric valve,Gen Electric
+US2228902,US2228902,B23Q 35,1932,33.7,49,51,automatic machine,Foxboro Co
+US2229326,US2229326,G11B 5,1937,222.4,44,46,sound record,Heller Herman S
+US2229449,US2229449,H03H 7,1937,274.1,44,46,phase shifting,Gen Electric
+US2230502,US2230502,G01V 3,1938,155,43,45,electrical system,Sperry Sun Well Surveying Co
+US2230681,US2230681,H04L 25,1937,329.1,44,46,telephone system,Teleregister Corp
+US2232993,US2232993,B21C 1,1938,10,43,45,wire drawing machine,Nat Standard Company Inc
+US2233415,US2233415,G05D 3,1937,175.5,44,46,position control system,Sperry Gyroscope Co Inc
+US2235385,US2235385,B23K 9,1939,28.2,42,44,welding,Alexander Rava
+US2235826,US2235826,F41G 5,1936,109.2,45,47,airplane control,Sperry Gyroscope Co Inc
+US2236532,US2236532,H03B 19,1937,261.6,44,46,freqeuency control,Gibbs Thomas B
+US2237655,US2237655,H04N 5,1938,339.6,43,45,television system,Rca Corp
+US2238249,US2238249,H03C 3,1938,267.1,43,45,phase shifting,Rca Corp
+US2239287,US2239287,B23D 27,1940,20,41,43,cutting machine,Int Register Co
+US2239310,US2239310,H01H 63,1940,233,41,43,counter system,Bendix Aviat Corp
+US2239776,US2239776,H03C 1,1939,265.5,42,44,modulator,Hazeltine Corp
+US2240184,US2240184,G01B 7,1938,114.3,43,45,electric gauge,Gen Electric
+US2240428,US2240428,H03J 7,1936,279,45,47,electrical control system,Philco Radio & Television Corp
+US2241156,US2241156,H03K 23,1938,285,43,45,selecting system,Stromberg Carlson Telephone
+US2242897,US2242897,B23K 11,1939,26.2,42,44,control system,Westinghouse Electric & Mfg Co
+US2243584,US2243584,G05F 1,1940,179.2,41,43,voltage  regulation,Gen Electric
+US2244500,US2244500,H04M 1,1938,332.3,43,45,telephone system,Bell Telephone Labor Inc
+US2245829,US2245829,H02J 13,1937,244.2,44,46,remote control system,Rca Corp
+US2245894,US2245894,B23Q 15,1939,30.3,42,44,size controll,Bryant Grinder Corp
+US2247468,US2247468,H04B 3,1940,310.3,41,43,automatic circuit,"Barr, Robert J Thorn, Ulrich"
+US2247562,US2247562,F16H 25,1940,103,41,43,thruster,B A Wesche Electric Company
+US2248182,US2248182,B06B 1,1940,7,41,43,vibratory motion,Mateer Edward W
+US2248442,US2248442,H03L 7,1939,298.2,42,44,radio system,Rca Corp
+US2248937,US2248937,H04L 12,1929,321.1,52,54,tele system,Associated Electric Lab Inc
+US2249753,US2249753,H03J 5,1939,277.6,42,44,electric control,Elliott Harold F
+US2249820,US2249820,B26D 5,1939,50.6,42,44,register control,Finn H. Guiilksen
+US2250102,US2250102,B23K 11,1940,26.4,41,43,condensor charge system,Raytheon Mfg Co
+US2250209,US2250209,B41F 13,1939,60,42,44,control system,Gen Electric
+US2250241,US2250241,B23Q 35,1939,34.9,42,44,hydraulic device,Starrfrasmaschinen A G
+US2250284,US2250284,H04N 5,1938,339.7,43,45,frequency control,Rca Corp
+US2252293,US2252293,H03K 7,1939,296.1,42,44,modulation system,Bell Telephone Labor Inc
+US2252457,US2252457,H03K 5,1940,295.3,41,43,relay system,Vannevar Bush
+US2252766,US2252766,H04Q 1,1940,342.2,41,43,signal system,Bell Telephone Labor Inc
+US2253508,US2253508,G05D 1,1940,171,41,43,navigation machine,"Barbulesco Constantin D, Crane Carl J"
+US2253654,US2253654,G05D 3,1937,175.6,44,46,remote control system,Telefunken Gmbh
+US2254812,US2254812,G01B 3,1940,112.3,41,43,guage control,Sheffield Corp
+US2255739,US2255739,B23B 3,1938,13.1,43,45,machine tool,Potter & Johnston Machine Comp
+US2255814,US2255814,G01G 19,1937,129,44,46,distributor device,Jean A Roche
+US2256482,US2256482,G08C 19,1936,208.9,45,47,data control system,Sperry Gyroscope Co Inc
+US2256487,US2256487,G05D 3,1936,175.2,45,47,data transformer,Sperry Gyrescope Company Inc
+US2257203,US2257203,G05D 1,1940,171.1,41,43,proportion control, Leo M Harvey
+US2257757,US2257757,G01S 3,1937,152.1,44,46,radio system,Sperry Gyroscope Co Inc
+US2258859,US2258859,G06G 3,1939,188,42,44,analyze curve,Leon V Mitelman
+US2258912,US2258912,B65H 35,1939,82.9,42,44,dispense machine,H. Steen
+US2258943,US2258943,H04N 5,1938,339.8,43,45,sync system,Rca Corp
+US2259329,US2259329,H02H 7,1940,242.1,41,43,vaper electric device,Westinghouse Electric & Mfg Co
+US2259472,US2259472,B23Q 35,1939,35,42,44,machine copying,Bailey Meter Co
+US2261644,US2261644,B23Q 35,1940,35.2,41,43,curve tracker,Gen Electric
+US2262354,US2262354,B23Q 35,1938,34.7,43,45,control system,Brown Instr Co
+US2262362,US2262362,B26D 5,1939,50.7,42,44,register regulator,Westinghouse Electric & Mfg Co
+US2262838,US2262838,H04J 3,1938,316,43,45,signaling system,Int Standard Electric Corp
+US2264067,US2264067,B23K 11,1939,26.3,42,44,resistance control system,Gen Electric
+US2264333,US2264333,H02P 7,1939,258.4,42,44,machine speed control,Submarine Signal Co
+US2264608,US2264608,H04B 7,1940,311.3,41,43,radio system,Edwin H Armstrong
+US2264615,US2264615,B41B 27,1939,58,42,44,photographic recorder,Ibm
+US2265216,US2265216,H04J 3,1939,316.3,42,44,multiplex telephone system,Hartford Nat Bank & Trust Co
+US2266401,US2266401,H04J 3,1938,316.1,43,45,signaling system,Int Standard Electric Corp
+US2266668,US2266668,H03K 3,1938,290.4,43,45,frequency control system,Nat Television Corp
+US2266862,US2266862,H03K 21,1940,283.1,41,43,counting system,Hardey Virgil S
+US2267827,US2267827,H04M 3,1939,336.3,42,44,signaling system,Bell Telephone Labor Inc
+US2267950,US2267950,H04Q 3,1940,344.2,41,43,telephone system,Bell Telephone Labor Inc
+US2267986,US2267986,H01H 47,1939,231,42,44,follow up control,Mackavanagh Thomas J
+US2268001,US2268001,H04N 7,1939,341.1,42,44,television system,Fernseh Gmbh
+US2268859,US2268859,H04Q 1,1937,342.3,44,46,impulse control system,Zwietusch E & Co Gmbh
+US2269501,US2269501,G06M 1,1937,201.7,44,46,traffic counting,Streeter Amet Co
+US2269643,US2269643,B23K 7,1941,27.3,40,42,cutting machine,Messer & Co Gmbh
+US2270246,US2270246,H04M 15,1940,334,41,43,telephone system,Bell Telephone Labor Inc
+US2270991,US2270991,G01D 15,1938,123,43,45,meter,Kurman Electric Co
+US2272070,US2272070,H04B 14,1939,309.2,42,44,electric signal system,Int Standard Electric Corp
+US2273191,US2273191,G05D 23,1939,172.6,42,44,measure and control,Brown Instr Co
+US2273193,US2273193,H04J 3,1938,316.2,43,45,frequency control system,Bell Telephone Labor Inc
+US2274992,US2274992,H03K 17,1940,281.4,41,43,time control system,Guardian Electric Mfg Company
+US2275016,US2275016,H03K 3,1939,290.5,42,44,control system,Rca Corp
+US2275017,US2275017,H01J 31,1940,236.2,41,43,signaling system,Mcnaney Joseph T
+US2275317,US2275317,G05B 11,1939,162.3,42,44,measure control,Bailey Meter Co
+US2275460,US2275460,H03K 3,1939,290.6,42,44,electric beam,Page Robert M
+US2276665,US2276665,H04Q 1,1940,342.4,41,43,telephone system,Bell Telephone Labor Inc
+US2277000,US2277000,H04N 5,1940,339.9,41,43,sync system,Philco Radio & Television Corp
+US2277027,US2277027,G01C 19,1940,117.3,41,43,telematric,West Instr Co Inc
+US2278430,US2278430,B23K 11,1940,26.5,41,43,condensor charge system,Raytheon Mfg Co
+US2278654,US2278654,H02K 19,1938,249,43,45,inductor,Western Union Telegraph Co
+US2279018,US2279018,G11B 5,1939,222.5,42,44,sound record,Rca Corp
+US2279338,US2279338,B23K 7,1937,27.2,44,46,cutting machine,Oxweld Acetylene Co
+US2279646,US2279646,G01J 3,1939,132.1,42,44,spectral analysis,Smith Frank P
+US2280019,US2280019,G05D 3,1940,175.8,41,43,remote control system,Aga Baltic Radio Aktiebolag
+US2281396,US2281396,H04Q 1,1940,342.5,41,43,selecting circuit,Bell Telephone Labor Inc
+US2281405,US2281405,G10L 21,1938,220.1,43,45,transmission system,"Barrish George, Barrish Robert Lloyd"
+US2281641,US2281641,B23D 29,1940,21,41,43,rotary motion,Frederick Toop
+US2282046,US2282046,H04J 3,1939,316.4,42,44,signaling system,Rca Corp
+US2282728,US2282728,B23D 57,1940,24,41,43,attachment drills,Kern Joseph W
+US2283240,US2283240,B23Q 35,1939,35.1,42,44,contouring device,Merco Trinkle Machine Co
+US2283383,US2283383,H04L 13,1940,323.2,41,43,signaling system,Joseph T Mcnaney
+US2283476,US2283476,B64C 25,1939,78,42,44,electronic tele control,Ver Deutsche Metallwerke Ag
+US2283754,US2283754,G05D 1,1939,170.8,42,44,automatic airplane,Sperry Gyroscope Co Inc
+US2284101,US2284101,H03K 3,1940,290.8,41,43,impulse generator,Rca Corp
+US2284415,US2284415,H04B 7,1939,311.2,42,44,relay system,Rca Corp
+US2284870,US2284870,H04M 15,1940,334.1,41,43,telephone system,Bell Telephone Labor Inc
+US2285540,US2285540,F15C 3,1939,98,42,44,control system,Leeds & Northrup Co
+US2286561,US2286561,G05D 1,1939,170.9,42,44,automatic airplane,Smith & Sons Ltd S
+US2286571,US2286571,B25J 9,1938,47.1,43,45,position control system,Pollard Willard L V
+US2288025,US2288025,H03L 7,1940,298.3,41,43,radio system,Bell Telephone Labor Inc
+US2288102,US2288102,G05D 1,1940,171.2,41,43,radio system,Smith & Sons Ltd S
+US2288628,US2288628,H01F 29,1939,226.1,42,44,electric phase shifing,Lee Frederick W
+US2289987,US2289987,H03K 3,1940,290.9,41,43,electronic keying,Rca Corp
+US2292835,US2292835,H03K 4,1941,293.6,40,42,electric system,Gerard Hepp
+US2293177,US2293177,H03K 3,1940,291,41,43,electronic control system,Beil Telephone Lab Inc
+US2293433,US2293433,B65H 35,1940,83,41,43,tape serve machine,Nashua Gummed & Coated Paper
+US2294209,US2294209,H03C 3,1938,267.2,43,45,radio system,Gen Electric
+US2294457,US2294457,H04Q 3,1940,344.3,41,43,selective system,Bell Telephone Labor Inc
+US2294620,US2294620,B41F 13,1939,60.1,42,44,rotary printing,Asea Ab
+US2294734,US2294734,G06K 13,1941,196.2,40,42,recording system,Ibm
+US2295000,US2295000,G08C 19,1938,209.1,43,45,rapid calculator,Eastman Kodak Co
+US2295388,US2295388,H02J 3,1939,245.6,42,44,automatic contorl system,Westinghouse Electric & Mfg Co
+US2295960,US2295960,G05D 23,1940,172.7,41,43,measure control,Brown Instr Co
+US2295968,US2295968,G06M 3,1940,203.1,41,43,counter system,Production Instr Co
+US2297876,US2297876,G05B 11,1941,162.7,40,42,control system,Pickering Governor Company
+US2298026,US2298026,H02J 3,1941,245.7,40,42,control system,Gen Electric
+US2298521,US2298521,G05D 3,1942,176.2,39,41,remote control,Frederick Uehling Fritz
+US2300505,US2300505,H04Q 3,1940,344.4,41,43,selective system,Bell Telephone Labor Inc
+US2300996,US2300996,H03B 5,1941,263.6,40,42,ocsillograph,Emi Ltd
+US2300999,US2300999,H03K 17,1940,281.5,41,43,electric counting,Westinghouse Electric & Mfg Co
+US2301199,US2301199,H04N 1,1940,338.2,41,43,facsimile system,Bell Telephone Labor Inc
+US2301748,US2301748,H04Q 3,1939,344.5,42,44,electric signal system,Ass Telephone & Telegraph Co
+US2302009,US2302009,G06F 1,1939,182,42,44,computing device,Ibm
+US2302025,US2302025,G06F 3,1940,184,41,43,computing device,Ibm
+US2302049,US2302049,G05F 1,1938,179.1,43,45,measure and control,Brown Instr Co
+US2302506,US2302506,B23Q 35,1941,35.3,40,42,milling machine,Richards James H
+US2303654,US2303654,G05B 11,1940,162.6,41,43,control machine,Honeywell Regulator Co
+US2305878,US2305878,G05B 11,1938,162.2,43,45,ELECTROnic control system,Adolf Krtissman
+US2305930,US2305930,H03K 4,1940,293.5,41,43,television system,Rca Corp
+US2306230,US2306230,B23K 11,1942,26.6,39,41,translator,Gen Electric
+US2306386,US2306386,H03K 23,1941,285.2,40,42,electronic control system,Columbia Broadcasting Syst Inc
+US2306456,US2306456,G01R 13,1940,138.4,41,43,measure record,Olive S Petty
+US2306729,US2306729,H04Q 3,1941,344.6,40,42,signal system,Bell Telephone Labor Inc
+US2307099,US2307099,H04L 15,1938,324.4,43,45,speed telegraph,Rca Corp
+US2307503,US2307503,B23Q 35,1938,34.8,43,45,machine control,Westinghouse Electric & Mfg Co
+US2307505,US2307505,H04L 21,1941,327.1,40,42,communication system,Ferdinand Heinmets
+US2307868,US2307868,H04M 3,1941,336.4,40,42,binary counter,Bell Telephone Labor Inc
+US2308620,US2308620,G05D 3,1940,175.9,41,43,electric control,Lear Avia Inc
+US2308778,US2308778,H04Q 3,1939,344.7,42,44,telephone system,Prince Jr Leon M
+US2310105,US2310105,H03K 23,1941,285.3,40,42,counter circuit,Gen Electric
+US2310438,US2310438,G06J 1,1941,194,40,42,multiplying device,Ibm
+US2310955,US2310955,G05B 11,1939,162.4,42,44,measure control,Hornfeck Anthony J
+US2311142,US2311142,B23Q 17,1942,32.4,39,41,precision machine,Genevoise Instr Physique
+US2311359,US2311359,G08G 1,1940,212.3,41,43,control system,Automatic Signal Corp
+US2311455,US2311455,G08B 27,1940,205,41,43,transmitter,American District Telegraph Co
+US2311682,US2311682,B30B 15,1939,57.4,42,44,automatic machine,American Can Co
+US2313209,US2313209,H04J 7,1939,318,42,44,communication system,Georges Valensi
+US2313627,US2313627,G08G 1,1940,212.4,41,43,treadle control system,Benjamin Cooper
+US2313989,US2313989,B23Q 35,1941,35.4,40,42,electrical control system,Niles Bement Pond Co
+US2314019,US2314019,H02P 7,1940,258.5,41,43,control system,Niles Bement Pond Co
+US2315755,US2315755,G01S 3,1940,152.2,41,43,radio system,Allen Warner Louis
+US2316240,US2316240,G05D 23,1941,172.8,40,42,control system,Brown Instr Co
+US2318372,US2318372,G06M 1,1939,201.8,42,44,operating system,Wrought Washer Mfg Co
+US2318591,US2318591,H03M 1,1937,301.2,44,46,digital serve,Louis Couffignal Pierre
+US2319424,US2319424,H01J 17,1941,234.1,40,42,telephone system,Bell Telephone Labor Inc
+US2319480,US2319480,B23Q 17,1939,32.3,42,44,micrometer dial,Kearney & Tecker Corp
+US2319622,US2319622,H04R 1,1940,348,41,43,phnographic device,Miessner Inv S Inc
+US2320338,US2320338,G06K 5,1941,198,40,42,verifying machine,Ibm
+US2321269,US2321269,H03C 3,1941,267.3,40,42,radio system,Rca Corp
+US2321799,US2321799,G09B 9,1941,214,40,42,radio system,Cone
+US2322653,US2322653,G08C 21,1940,211.3,41,43,telautograph device,Bell Telephone Labor Inc
+US2323977,US2323977,B23K 7,1941,27.4,40,42,conditioning machine,Linde Air Prod Co
+US2324314,US2324314,H03K 23,1941,285.4,40,42,electronic switch,Gen Electric
+US2324987,US2324987,H02P 7,1940,258.6,41,43,control system,Firestone Tire & Rubber Co.
+US2325733,US2325733,B23Q 5,1940,38.6,41,43,rapid lathe,Monarch Machine Tool Co
+US2325764,US2325764,G04F 5,1939,160,42,44,musical device,Gall Charles C
+US2325941,US2325941,G06K 19,1939,197,42,44,computing machine,Ibm
+US2326515,US2326515,H04N 7,1940,341.2,41,43,television system,Gen Electric
+US2326584,US2326584,H04J 3,1940,316.5,41,43,television system,Hartford Nat Bank & Trust Co
+US2327239,US2327239,B23D 51,1941,23.3,40,42,jigsaw,Herbert R Bartlett
+US2328613,US2328613,B24B 23,1940,41.3,41,43,polishing machine,Skilsaw Inc
+US2329137,US2329137,H03K 4,1941,293.7,40,42,deflection generator,Rca Corp
+US2330822,US2330822,G05D 3,1940,176,41,43,follow up control,Ernst Fischer Friedrich
+US2331443,US2331443,B23Q 35,1944,36.2,37,39,lathe,Fischer Ag Georg
+US2331698,US2331698,G05B 1,1939,161,42,44,measure and control,Brown Instr Co
+US2332253,US2332253,H03H 11,1942,273.1,39,41,radio system,Rca Corp
+US2332300,US2332300,H03K 21,1941,283.2,40,42,interval system,Gen Electric
+US2334543,US2334543,G08C 19,1942,209.4,39,41,remote indcation,Rochester Mfg Co Inc
+US2334965,US2334965,D06F 37,1942,89,39,41,washing machine control,Leo M Harvey
+US2335163,US2335163,G05B 11,1941,162.8,40,42,photoelectric system,Charles Tagliabue Mfg Co
+US2336142,US2336142,G01M 1,1941,135,40,42,airplane gravity,Watson Oliver H
+US2336376,US2336376,G05B 19,1940,164.2,41,43,phtoelectric control,Ind Scient Corp
+US2336492,US2336492,G05B 11,1939,162.5,42,44,computing device,Wallace & Tiernan Inc
+US2337132,US2337132,B23Q 15,1942,30.4,39,41,electric control,Rca Corp
+US2337589,US2337589,G05D 1,1940,171.3,41,43,automatic gear,Britton Chance
+US2338395,US2338395,H03K 3,1940,291.1,41,43,signal transmission system,Gen Electric
+US2338512,US2338512,H03C 1,1942,265.6,39,41,telephone circuit,Westinghouse Electric & Mfg Co
+US2338991,US2338991,G01V 3,1940,155.1,41,43,magnetic control system,Lane Wells Co
+US2339194,US2339194,B65H 63,1941,84,40,42,handling system,Western Electric Co
+US2342318,US2342318,H04L 25,1942,329.3,39,41,electrical timing circuit,Bell Telephone Labor Inc
+US2342753,US2342753,H03K 23,1941,285.5,40,42,counting system,Westinghouse Electric & Mfg Co
+US2345383,US2345383,A01D 34,1941,1,40,42,mowing machine,Curtis John S
+US2345613,US2345613,B23Q 5,1942,38.7,39,41,lathe attachment,Lukis Ernest Du B
+US2345668,US2345668,H03K 4,1942,293.8,39,41,impulse generator,Farnsworth Television & Radio
+US2346616,US2346616,G06F 7,1941,185.5,40,42,multiplying machine,Ncr Co
+US2346869,US2346869,G06M 1,1941,201.9,40,42,predetermined control,Production Instr Company
+US2347084,US2347084,G11B 7,1942,223.4,39,41,sound system,Rca Corp
+US2347590,US2347590,G08C 19,1940,209.2,41,43,electric control,Eugen Binder
+US2348016,US2348016,H03K 23,1941,285.6,40,42,countercircuit,Gen Electric
+US2348141,US2348141,G06M 3,1939,203,42,44,computing device,Ibm
+US2348401,US2348401,G01R 13,1942,138.5,39,41,recording system,Olive S Petty
+US2348862,US2348862,B41F 13,1940,60.2,41,43,registratoin control,Fred Goat Co Inc
+US2349810,US2349810,H03K 21,1941,283.3,40,42,countercircuit,Gen Electric
+US2349963,US2349963,G05B 11,1937,162.1,44,46,measure control,Brown Instr Co
+US2349987,US2349987,B61L 3,1942,70,39,41,signal system,Union Switch & Signal Co
+US2350551,US2350551,H04Q 5,1941,346,40,42,electric switching,"Fish Edwin L, Maben Daniel E"
+US2352149,US2352149,B65H 35,1941,83.1,40,42,strip system,Nashua Gummed & Coated Paper
+US2352183,US2352183,G05G 19,1940,180,41,43,control system,Bullard Co
+US2352507,US2352507,G01B 5,1942,113.1,39,41,guage control,Sheffield Corp
+US2353672,US2353672,G01R 29,1942,144,39,41,phase shifting,Rca Corp
+US2354365,US2354365,H03H 7,1942,274.2,39,41,sync system,Aladdin Radio Ind Inc
+US2354391,US2354391,G05B 19,1942,164.3,39,41,machine control,Arthur R Mccourt
+US2354768,US2354768,H03K 21,1941,283.4,40,42,electrical counter,United Shoe Machinery Corp
+US2357055,US2357055,H02P 23,1941,254,40,42,speed control,Mydans William E
+US2358454,US2358454,H03J 7,1942,279.3,39,41,automatic circuit,Rca Corp
+US2358746,US2358746,G05B 19,1942,164.4,39,41,control machine,Brown & Sharpe Mfg
+US2362197,US2362197,G05D 3,1942,176.3,39,41,electric stop system,Ford Instr Co Inc
+US2363502,US2363502,G11B 7,1941,223.3,40,42,sound system,Lee A Collins
+US2364210,US2364210,H04K 1,1942,320.2,39,41,signaling system,Patelhold Patentverwertung
+US2364389,US2364389,H03F 1,1943,269,38,40,feedback control,Standard Telephones Cables Ltd
+US2364873,US2364873,B23Q 35,1937,34.4,44,46,control device,Rosen Oscar E
+US2365365,US2365365,B23Q 35,1941,35.5,40,42,contouring device,Merco Trinkle Machine Co
+US2366543,US2366543,G01C 19,1942,117.4,39,41,navigation machine,Smith & Sons Ltd S
+US2367042,US2367042,H04Q 3,1941,344.8,40,42,signaling system,American Telephone & Telegraph
+US2367925,US2367925,H02J 3,1942,245.8,39,41,sync system,Westinghouse Electric & Mfg Co
+US2368408,US2368408,B23Q 16,1942,31,39,41,carraige control,Letourneau Inc
+US2369474,US2369474,H03M 5,1943,306,38,40,translator,Ibm
+US2369622,US2369622,H04B 10,1941,308,40,42,navigation machine,Toulon Pierre Maric Gabriel
+US2369783,US2369783,G04C 23,1940,158.1,41,43,reciever control,John H Homrighous
+US2370727,US2370727,G04F 10,1942,159.1,39,41,time control system,Bell Telephone Labor Inc
+US2371415,US2371415,G08C 19,1942,209.5,39,41,remote control system,Rca Corp
+US2371905,US2371905,H04L 7,1941,331,40,42,phase shifting,Rca Corp
+US2372604,US2372604,B23Q 35,1941,35.6,40,42,dual duplicator,Rosen Oscar E
+US2373134,US2373134,H03K 23,1942,285.8,39,41,signal system,Bell Telephone Labor Inc
+US2373247,US2373247,H04L 13,1943,323.3,38,40,time control system,Automatic Elect Lab
+US2373332,US2373332,B23Q 35,1944,36.3,37,39,safety device,Gen Motors Corp
+US2373503,US2373503,G01M 1,1942,135.1,39,41,mail treat machine,Commercial Controls Corp
+US2373504,US2373504,G01G 19,1943,129.1,38,40,aircraft distribution,York Res Corp
+US2374439,US2374439,G08B 21,1941,203,40,42,indicate device,Leo M Herkert
+US2374817,US2374817,G01R 25,1943,142,38,40,electric system,Int Standard Electric Corp
+US2375665,US2375665,G01D 5,1942,124.1,39,41,electric position,Genevoise Instr Physique
+US2378326,US2378326,H04J 7,1944,318.1,37,39,frequency control system,Gen Railway Signal Co
+US2378383,US2378383,G01R 13,1942,138.6,39,41,translator,Brush Dev Co
+US2379072,US2379072,H02P 5,1942,256.6,39,41,motor control,Cutler Hammer Inc
+US2380894,US2380894,H04L 13,1928,323,53,55,communication system,Barber Colman Co
+US2381826,US2381826,G01L 7,1942,134,39,41,indicate wave light,Gen Aircraft Equipment Inc
+US2381920,US2381920,H04L 12,1944,321.9,37,39,telemetric device,Bell Telephone Labor Inc
+US2381928,US2381928,H03K 9,1942,297,39,41,frequency control,Rca Corp
+US2382787,US2382787,B65H 35,1943,83.3,38,40,strip system,Nashua Gummed & Coated Paper
+US2382994,US2382994,G01C 21,1943,118.3,38,40,electric control,Bell Telephone Labor Inc
+US2383901,US2383901,B64C 25,1942,78.1,39,41,power trans machine,Gen Motors Corp
+US2385086,US2385086,H03C 3,1943,267.4,38,40,electric control,Hartford Nat Bank & Trust Co
+US2385334,US2385334,G06G 7,1941,190.9,40,42,calculator, Peter Davey
+US2386049,US2386049,H04R 19,1943,349.1,38,40,frequency control system,Gen Electric
+US2386892,US2386892,H03B 5,1942,263.7,39,41,amplipier or oscilliator,Automatic Elect Lab
+US2387444,US2387444,H02J 13,1941,244.3,40,42,remote control system,Wurlitzer Co
+US2388555,US2388555,B23Q 35,1943,35.8,38,40,tracker control,Gen Electric
+US2388727,US2388727,G01N 21,1942,136,39,41,glossmeter,Interchem Corp
+US2389275,US2389275,G08C 19,1942,209.6,39,41,telemetric device,Automatic Elect Lab
+US2389368,US2389368,H02P 5,1944,256.7,37,39,control system,Westinghouse Electric Corp
+US2390415,US2390415,G06K 5,1944,198.1,37,39,record control,Ibm
+US2393060,US2393060,H02H 7,1943,242.2,38,40,control system,Westinghouse Electric Corp
+US2393186,US2393186,G01D 13,1942,121,39,41,register printer device,Gen Electric
+US2395351,US2395351,G01C 21,1942,118.2,39,41,navigating machine,Sohn Marion E
+US2395467,US2395467,H04J 1,1943,314.1,38,40,telephone system,Standard Telephones Cables Ltd
+US2395525,US2395525,B23Q 35,1943,35.9,38,40,navigating control,Continental Machines
+US2395575,US2395575,G05D 3,1942,176.4,39,41,motion transmission system,Bell Telephone Labor Inc
+US2396497,US2396497,A61N 1,1941,5,40,42,timing control,Lektra Lab Inc
+US2397604,US2397604,G08C 19,1943,209.7,38,40,remote inditatoin,Standard Telephones Cables Ltd
+US2397933,US2397933,B23Q 35,1943,36,38,40,curve tracker,Linde Air Prod Co
+US2398519,US2398519,G05D 3,1942,176.5,39,41,remote control system,Rca Corp
+US2398771,US2398771,H03K 3,1943,291.3,38,40,electronic control system,Ncr Co
+US2399777,US2399777,G08G 5,1943,213,38,40,airplane control,Gen Railway Signal Co
+US2400574,US2400574,H04L 17,1943,326.2,38,40,telemetric device,Bell Telephone Labor Inc
+US2400793,US2400793,B26D 3,1945,49,36,38,dispense machine,Radio Corporation of America
+US2401021,US2401021,G06K 7,1943,199,38,40,computing device,"Rosenberg Martin, Conrad Matthew"
+US2401164,US2401164,B23Q 15,1944,30.6,37,39,control system,Westinghouse Electric Corp
+US2401447,US2401447,H04K 1,1943,320.3,38,40,multiplier system,Rca Corp
+US2401527,US2401527,G06G 7,1943,191.5,38,40,electronic switch,Rca Corp
+US2401779,US2401779,G06G 7,1941,191,40,42,calculator,Bell Telephone Labor Inc
+US2402058,US2402058,H04K 1,1941,320.1,40,42,communication system,Hazeltine Research Inc
+US2402359,US2402359,G01R 31,1943,145.1,38,40,elctric control,Cossor Ltd A C
+US2402372,US2402372,H03K 23,1943,286.2,38,40,counting device,Ncr Co
+US2402432,US2402432,H03K 21,1943,283.5,38,40,electric counting,Ncr Co
+US2402928,US2402928,G05D 3,1944,177,37,39,sync system,Gen Electric
+US2402989,US2402989,G06K 13,1941,196.3,40,42,computing system,Ibm
+US2403210,US2403210,H04J 3,1944,316.8,37,39,pulse modulation,"Henry Oxford Alan John, Stewart Butement William Alan"
+US2403429,US2403429,G01S 1,1942,147.9,39,41,radio system,Rca Corp
+US2403561,US2403561,H04J 3,1942,316.6,39,41,multi control system,Rca Corp
+US2403600,US2403600,G01S 19,1941,151.1,40,42,indicate device,Rca Corp
+US2403615,US2403615,H01H 51,1942,232,39,41,frequency control system,Rca Corp
+US2403626,US2403626,G01S 1,1941,147.8,40,42,radio system,Rca Corp
+US2403852,US2403852,G08C 19,1940,209.3,41,43,electronic control system,Ncr Co
+US2403873,US2403873,H03K 3,1942,291.2,39,41,impulse system,Ncr Co
+US2403890,US2403890,G08C 15,1943,207.1,38,40,telemetric system,Hazeltine Research Inc
+US2403918,US2403918,G04F 10,1943,159.2,38,40,electric chronograph,Rca Corp
+US2403958,US2403958,G01R 23,1942,141.3,39,41,radio system,Rca Corp
+US2403975,US2403975,G01S 3,1941,152.3,40,42,automatic following,Bell Telephone Labor Inc
+US2404047,US2404047,G06F 7,1943,185.6,38,40,electric computing,Rca Corp
+US2404137,US2404137,G11B 7,1944,223.5,37,39,recording system,Maurer Inc J A
+US2404250,US2404250,G06F 7,1944,186,37,39,computing system,Rca Corp
+US2404387,US2404387,G06G 7,1941,191.1,40,42,calculator,Bell Telephone Labor Inc
+US2404773,US2404773,H04Q 5,1945,346.1,36,38,communication system,Union Switch & Signal Co
+US2404918,US2404918,H03K 23,1940,285.1,41,43,counting system,Research Corp
+US2405231,US2405231,G01S 19,1942,151.2,39,41,airplane system,Bell Telephone Labor Inc
+US2405238,US2405238,G01S 13,1940,149,41,43,indicate device,Rca Corp
+US2405664,US2405664,H03K 23,1941,285.7,40,42,electric accumulator,Ncr Co
+US2405765,US2405765,H04B 7,1942,311.4,39,41,radio system,Rca Corp
+US2406019,US2406019,H03K 7,1941,296.2,40,42,pulse modulation,Int Standard Electric Corp
+US2406125,US2406125,H03J 7,1943,279.4,38,40,radio system,Hartford Nat Bank & Trust Co
+US2406299,US2406299,H01J 40,1942,237.1,39,41,photoelectric system,Genevoise Instr Physique
+US2406318,US2406318,G01N 21,1942,136.1,39,41,control system,Westinghouse Electric Corp
+US2406848,US2406848,G05D 3,1944,177.1,37,39,remote control,Gen Electric
+US2407320,US2407320,H03K 23,1942,285.9,39,41,electronic control system,Bell Telephone Labor Inc
+US2408081,US2408081,F41G 5,1941,109.3,40,42,predictor system,Bell Telephone Labor Inc
+US2408363,US2408363,B65H 35,1942,83.2,39,41,electric control,Better Packages Inc
+US2408524,US2408524,B07C 5,1940,9.2,41,43,electric gauge, Kobe Inc
+US2408794,US2408794,H04L 27,1942,330.4,39,41,signaling system,Bell Telephone Labor Inc
+US2408821,US2408821,H03G 3,1943,271.3,38,40,automatic control,Sperry Gryoscope Company Inc
+US2409229,US2409229,H03K 17,1945,281.8,36,38,selector circuit,"Kuder Milton L, Smith Jr Carl Harrison"
+US2409895,US2409895,G05D 3,1943,176.6,38,40,position control system,Westinghouse Electric Corp
+US2410295,US2410295,B23Q 15,1943,30.5,38,40,automatic control,Gen Electric
+US2410540,US2410540,G08G 5,1943,213.1,38,40,airplane traffic control,Gen Railway Signal Co
+US2410821,US2410821,G08C 19,1943,209.8,38,40,indicate system,Hillman Leon
+US2411147,US2411147,G05D 3,1943,176.7,38,40,remote control,Times Telephoto Equipment Inc
+US2411613,US2411613,G01F 1,1942,125.3,39,41,metering device,Jensen Machinery Company Inc
+US2411648,US2411648,H04M 19,1944,335,37,39,impulse system,Stromberg Carlson Co
+US2411741,US2411741,G01J 3,1939,132.2,42,44,color matching,Gen Electric
+US2413211,US2413211,G05D 3,1944,177.2,37,39,remote control system,Rca Corp
+US2413274,US2413274,B23Q 35,1941,35.7,40,42,electrical control system,Continental Machines
+US2413300,US2413300,G01S 19,1943,151.3,38,40,navigating machine,Charles G Dunn
+US2414102,US2414102,F41G 5,1941,109.4,40,42,handling system,Sperry Gyroscope Co Inc
+US2414221,US2414221,G01D 9,1942,124.2,39,41,recording system,Bristol Company
+US2415191,US2415191,G06G 7,1942,191.2,39,41,electric computer,Rca Corp
+US2416188,US2416188,H03K 3,1943,291.4,38,40,frequency control system,Westinghouse Electric Corp
+US2416329,US2416329,H03K 7,1942,296.3,39,41,modulation system,Standard Telephones Cables Ltd
+US2417148,US2417148,B07C 5,1943,9.3,38,40,guage control,Gen Motors Corp
+US2417522,US2417522,H03K 3,1944,291.6,37,39,multivibrator circuit,Rca Corp
+US2417593,US2417593,H01Q 3,1944,239,37,39,motor control,Philco Corp
+US2417831,US2417831,H03K 23,1943,286.3,38,40,counting relay system,Bell Telephone Labor Inc
+US2418116,US2418116,H04J 3,1943,316.7,38,40,sync system,Standard Telephones Cables Ltd
+US2418521,US2418521,H03K 21,1945,283.7,36,38,impulse measure system,Rca Corp
+US2419772,US2419772,H03K 3,1944,291.7,37,39,pulse modulation,Rca Corp
+US2420590,US2420590,H03K 21,1944,283.6,37,39,counting device,Line Material Co
+US2421018,US2421018,G01S 15,1943,150,38,40,radio system,Standard Telephones Cables Ltd
+US2421560,US2421560,G01R 17,1943,140.3,38,40,frequency control system,Rca Corp
+US2421727,US2421727,H04J 1,1945,314.2,36,38,relay system,Rca Corp
+US2422020,US2422020,B23K 11,1945,26.7,36,38,electric control system,Gen Electric
+US2423208,US2423208,H04R 19,1944,349.2,37,39,electrical control system,Rca Corp
+US2423337,US2423337,G05D 1,1942,171.4,39,41,radio system, Sperry Gyroscope Co Inc
+US2423438,US2423438,G05D 3,1943,176.8,38,40,electric motor control,Raytheon Mfg Co
+US2423440,US2423440,G05B 19,1942,164.5,39,41,automatic control,Actrol Inc
+US2424218,US2424218,G11B 5,1943,222.6,38,40,recording system,Brush Dev Co
+US2424481,US2424481,G01S 13,1944,149.1,37,39,electric system,Philco Corp
+US2424569,US2424569,G05D 3,1941,176.1,40,42,electric motor control,Sperry Gyroscope Co Inc
+US2424585,US2424585,H04Q 1,1943,342.6,38,40,telephone system,Int Standard Electric Corp
+US2425003,US2425003,G10L 21,1944,220.2,37,39,frequency control system,Bell Telephone Labor Inc
+US2425124,US2425124,G07C 3,1942,206.2,39,41,automatic control,Gen Controls Co
+US2425405,US2425405,G06G 7,1942,191.3,39,41,electrical control system,Rca Corp
+US2426454,US2426454,H03K 17,1942,281.6,39,41,electric switching,Hazeltine Research Inc
+US2427493,US2427493,G05B 19,1944,164.6,37,39,control system,Bullard Co
+US2428017,US2428017,H03J 1,1943,275.4,38,40,remote control system,Int Standard Electric Corp
+US2428369,US2428369,G01R 13,1945,138.7,36,38,generator,Kammer Erwin W
+US2428541,US2428541,G06G 7,1944,191.7,37,39,calculator tube,Philco Corp
+US2428800,US2428800,G05D 3,1944,177.3,37,39,tele control,Bell Telephone Labor Inc
+US2428924,US2428924,A01D 34,1944,1.1,37,39,counterbalance system,Minneapolis Moline Power Co
+US2428990,US2428990,G06F 7,1943,185.7,38,40,electronic computer,Rca Corp
+US2429227,US2429227,G06F 7,1945,186.2,36,38,electronic computing,Rca Corp
+US2429228,US2429228,G06F 7,1945,186.3,36,38,electronic computing,Rca Corp
+US2429500,US2429500,B26D 5,1942,50.8,39,41,photoelectric control,Photoswitch Inc
+US2429606,US2429606,F41G 3,1943,108.2,38,40,parallax correction,Sperry Gyroscope Co Inc
+US2429613,US2429613,H04B 7,1943,311.5,38,40,communication system,Standard Telephones Cables Ltd
+US2430139,US2430139,H03M 1,1944,301.4,37,39,pulse modulation,Rca Corp
+US2430547,US2430547,H04L 25,1943,329.4,38,40,electric tele control,Rca Corp
+US2430570,US2430570,G01S 1,1944,148.1,37,39,radio navigation system,Rca Corp
+US2433385,US2433385,G01S 1,1942,148,39,41,navigation system,Bell Telephone Labor Inc
+US2434274,US2434274,G01G 7,1944,131.1,37,39,computer device,Bell Telephone Labor Inc
+US2435840,US2435840,G06F 7,1943,185.8,38,40,computing,Rca Corp
+US2435841,US2435841,G06F 7,1944,186.1,37,39,computing,Rca Corp
+US2436068,US2436068,G05D 3,1945,177.5,36,38,follow up control,Bendix Aviat Corp
+US2436172,US2436172,G05D 3,1946,177.8,35,37,radio system,Collins Radio Co
+US2436178,US2436178,H03M 1,1943,301.3,38,40,electric computing,Rca Corp
+US2437251,US2437251,G01S 3,1943,152.4,38,40,radio system,Sperry Corp
+US2437570,US2437570,B23Q 35,1944,36.4,37,39,lathe,Der Eisen Und Stahlwerke Vorm
+US2437603,US2437603,B23Q 35,1943,36.1,38,40,machine control,Bailey Meter Co
+US2437707,US2437707,H04B 14,1945,309.3,36,38,communication system,Bell Telephone Labor Inc
+US2438283,US2438283,G05D 3,1945,177.6,36,38,switching system,Bendix Aviat Corp
+US2438487,US2438487,F25C 1,1939,107,42,44,articulate ice tray,Servel Inc
+US2438492,US2438492,H03K 23,1944,286.4,37,39,signaling system,Bell Telephone Labor Inc
+US2438888,US2438888,G01S 7,1943,153,38,40,radio system,Bell Telephone Labor Inc
+US2438907,US2438907,H03K 25,1944,288.1,37,39,discharge system,Standard Telephones Cables Ltd
+US2438908,US2438908,H03M 1,1945,301.5,36,38,communication system,Bell Telephone Labor Inc
+US2439891,US2439891,G05B 24,1944,169.1,37,39,measure control,Bailey Meter Co
+US2440083,US2440083,H02P 23,1943,254.1,38,40,control system,Curtiss Wright Corp
+US2441127,US2441127,H03D 7,1942,268,39,41,circuit control,Tung Sol Lamp Works Inc
+US2441387,US2441387,G06G 7,1944,191.8,37,39,electronic control system,Us Sec War
+US2441549,US2441549,B24B 17,1946,39,35,37,copying machine,Taylor Taylor & Hobson Ltd
+US2442123,US2442123,H04N 5,1946,340,35,37,sync system,Gen Electric Co Ltd
+US2442256,US2442256,H03K 17,1947,281.9,34,36,sync system,Westinghouse Electric Corp
+US2442403,US2442403,H03K 23,1942,286,39,41,electric switching,Rca Corp
+US2442428,US2442428,G06F 7,1943,185.9,38,40,calculating device,Ncr Co
+US2443098,US2443098,G06G 7,1944,191.9,37,39,weight control system,Rca Corp
+US2443198,US2443198,F41G 7,1946,110,35,37,pulse control system,Max E Sallach
+US2443624,US2443624,G01C 3,1942,119.1,39,41,conputer device,Bell Telephone Labor Inc
+US2444429,US2444429,H04L 25,1940,329.2,41,43,telegraph reciever,Claud E Cleeton
+US2445663,US2445663,H03J 7,1946,279.5,35,37,frequency control system,Collins Radio Co
+US2446191,US2446191,G06G 7,1946,192.2,35,37,switching system,Cons Eng Corp
+US2446945,US2446945,H03K 29,1942,289,39,41,electric computer,Rca Corp
+US2450096,US2450096,G05B 19,1947,165.1,34,36,automatic lathe,Leblond Mach Tool Co R K
+US2451044,US2451044,H04B 14,1945,309.4,36,38,communication system,Bell Telephone Labor Inc
+US2451632,US2451632,G01S 13,1944,149.2,37,39,pulse receiver,Bell Telephone Labor Inc
+US2452549,US2452549,H03K 3,1939,290.7,42,44,pulse generator,Cleeton Claud E
+US2452601,US2452601,H03J 3,1944,276.1,37,39,radio system,Ranger Richard H
+US2453454,US2453454,H03M 1,1946,301.6,35,37,coding system,Bell Telephone Labor Inc
+US2453461,US2453461,H03M 1,1946,301.7,35,37,communication system,Bell Telephone Labor Inc
+US2454549,US2454549,G06G 7,1946,192.3,35,37,electric solver,Rca Corp
+US2455974,US2455974,G06G 7,1946,192.4,35,37,automatic computing,Rca Corp
+US2457558,US2457558,G05B 19,1944,164.7,37,39,measure control system,Bailey Meter Co
+US2458652,US2458652,H03M 13,1946,305,35,37,electron discharge,Bell Telephone Labor Inc
+US2458697,US2458697,G06G 7,1947,192.8,34,36,elctric computer,Universal Oil Prod Co
+US2459106,US2459106,G06G 7,1946,192.5,35,37,computing,Interchem Corp
+US2459253,US2459253,B23K 7,1944,27.5,37,39,reproduce machine,Air Reduction
+US2460467,US2460467,H02J 3,1944,246,37,39,electric line control,Line Material Co
+US2461832,US2461832,G01S 7,1946,153.1,35,37,phase shifting,Bell Telephone Labor Inc
+US2462275,US2462275,H03K 23,1942,286.1,39,41,electric computing,Rca Corp
+US2462292,US2462292,G01B 9,1943,115.1,38,40,light measuring device,Rca Corp
+US2462913,US2462913,G05F 1,1943,179.3,38,40,electric control,Sorensen Edward M
+US2465624,US2465624,G06G 7,1946,192.6,35,37,computing device,Arma Corp
+US2466167,US2466167,B66B 1,1946,85.1,35,37,speed control,Geoffrey Foulds William
+US2466776,US2466776,H03J 5,1946,277.7,35,37,automatic control,Collins Radio Co
+US2468150,US2468150,G06G 7,1945,192,36,38,computer device,Cons Eng Corp
+US2468772,US2468772,H01H 3,1945,229,36,38,multiple switch device,William Mungall
+US2469269,US2469269,F16H 25,1943,103.1,38,40,actuator device,Lear Inc
+US2469594,US2469594,G10K 11,1947,219,34,36,hoist control,Submarine Signal Co
+US2470244,US2470244,B23Q 35,1946,36.7,35,37,electrical control system,Submarine Signal Co
+US2471834,US2471834,H03K 17,1944,281.7,37,39,electric control system,Gen Electric
+US2471843,US2471843,H04Q 9,1945,347.1,36,38,remote control,Bendix Aviat Corp
+US2472129,US2472129,G06G 7,1943,191.6,38,40,radio system,Sperry Corp
+US2473424,US2473424,G05D 3,1943,176.9,38,40,tube controll,Submarine Signal Co
+US2474266,US2474266,H03K 23,1945,286.5,36,38,frequency control system,Harold Lyons
+US2475245,US2475245,B23Q 15,1947,30.9,34,36,automatic control, Salem Engineering Canada Ltd
+US2476066,US2476066,H03K 17,1948,282,33,35,crystal matrix,Sylvania Electric Prod
+US2476673,US2476673,B24B 47,1947,43,34,36,position control system,Collins Radio Co
+US2476747,US2476747,G06G 7,1942,191.4,39,41,electrical computer,Bell Telephone Labor Inc
+US2477848,US2477848,G01R 13,1946,138.8,35,37,cathode ray control,Allis Chalmers Mfg Co
+US2479975,US2479975,H04Q 9,1944,347.2,37,39,control system,John J Shively
+US2480386,US2480386,H04L 15,1947,324.5,34,36,ink recorder type,Rca Corp
+US2480636,US2480636,G01J 3,1947,132.3,34,36,oscillographic,Dieke Gerhard H
+US2481383,US2481383,B23B 39,1946,14.2,35,37,machine system,Monarch Machine Tool Co
+US2483394,US2483394,B61L 1,1944,69.1,37,39,control system,Eastern Ind Inc
+US2484081,US2484081,H03K 3,1943,291.5,38,40,electrical comparing,Ibm
+US2484575,US2484575,H02J 3,1943,245.9,38,40,phase control,Gen Electric
+US2484968,US2484968,G05B 19,1944,164.8,37,39,operating system,Sponaugle Lloyd Blair
+US2487469,US2487469,G06M 1,1943,202,38,40,actuate system,Production Instr Company
+US2488412,US2488412,B23Q 15,1945,30.7,36,38,control system,Westinghouse Electric Corp
+US2488696,US2488696,B23Q 5,1946,38.8,35,37,automatic control,Waldron Harvey B
+US2489203,US2489203,G05B 19,1946,165,35,37,automatic lathe,Leblond Mach Tool Co R K
+US2489253,US2489253,G08C 15,1946,207.2,35,37,multisignal recording system,Andre Walter L
+US2489824,US2489824,H03B 19,1943,261.7,38,40,frequency control system,Rca Corp
+US2489883,US2489883,H03M 1,1946,301.8,35,37,pulse modulation,Bell Telephone Labor Inc
+US2492134,US2492134,H04J 7,1947,318.2,34,36,coding system,Fed Telecomm Lab Inc
+US2492731,US2492731,B23Q 35,1944,36.5,37,39,tracker control,Gen Electric
+US2494663,US2494663,B23Q 35,1944,36.6,37,39,sync cutting machine,Linde Air Prod Co
+US2498272,US2498272,B23Q 15,1945,30.8,36,38,control system,Westinghouse Electric Corp
+US2499178,US2499178,G06K 11,1948,195,33,35,curve tracker,Gen Electric
+US2501631,US2501631,B23D 49,1947,21.5,34,36,motion control system,Scintilla Ag
+US2505029,US2505029,H03M 1,1949,302.5,32,34,decoder,Bell Telephone Labor Inc
+US2510121,US2510121,G11B 7,1945,223.6,36,38,sound record,Standard Telephones Cables Ltd
+US2512185,US2512185,F16H 21,1947,102.2,34,36,bearing,Thompson Wade Corp
+US2514036,US2514036,H03K 3,1947,291.8,34,36,electronic pulse producer,Ibm
+US2514671,US2514671,H03M 1,1947,302,34,36,decoder,Bell Telephone Labor Inc
+US2517559,US2517559,G06M 3,1946,203.2,35,37,preset register,Standard Telephones Cables Ltd
+US2518022,US2518022,H04Q 3,1948,344.9,33,35,translator,Bell Telephone Labor Inc
+US2519667,US2519667,H02P 23,1945,254.2,36,38,motor control,Bell Telephone Labor Inc
+US2525077,US2525077,G06J 1,1945,194.1,36,38,electric computing,Rca Corp
+US2531600,US2531600,H01J 29,1949,235,32,34,electric beam tube,Bell Telephone Labor Inc
+US2533242,US2533242,H03M 1,1949,302.6,32,34,data transformer,Gridley Darrin H
+US2534287,US2534287,G06F 9,1946,187,35,37,electric control system,Marsh Jr Lynn W
+US2534505,US2534505,G05D 3,1944,177.4,37,39,telematric,Honeywell Regulator Co
+US2536916,US2536916,H04J 3,1945,316.9,36,38,electronic computing,Ibm
+US2537427,US2537427,G05B 19,1949,165.2,32,34,digital serve,North American Aviation Inc
+US2537770,US2537770,G05B 19,1949,165.3,32,34,control system,Gen Electric
+US2538415,US2538415,G05D 3,1945,177.7,36,38,electric motor control,Honeywell Regulator Co
+US2538615,US2538615,H03M 1,1948,302.3,33,35,decoder,Bell Telephone Labor Inc
+US2538789,US2538789,H03K 23,1948,286.6,33,35,sequence control,Ibm
+US2539014,US2539014,H04M 3,1949,336.5,32,34,digit generator,Frantz Walter J
+US2539474,US2539474,H04B 7,1947,311.6,34,36,radio system,Int Standard Electric Corp
+US2539623,US2539623,H03M 1,1947,302.1,34,36,communication system,Bell Telephone Labor Inc
+US2540797,US2540797,G06G 7,1945,192.1,36,38,color matching,American Cyanamid Co
+US2543058,US2543058,H03L 7,1945,298.4,36,38,frequency control,Ranger Richard H
+US2549422,US2549422,H03M 1,1949,302.7,32,34,decoder,Bell Telephone Labor Inc
+US2552137,US2552137,H03K 17,1948,282.1,33,35,time control system,Gen Electric
+US2556586,US2556586,G10L 21,1947,220.3,34,36,indicate wave light,Robert W Johnston
+US2557086,US2557086,H04J 3,1949,317.1,32,34,electric communication,"Bert Fisk, Spencer Charles L"
+US2557581,US2557581,H02J 13,1947,244.4,34,36,remote control system,Rock Ola Mfg Corp
+US2559575,US2559575,B23Q 35,1947,36.8,34,36,electrical control system,Raytheon Mfg Co
+US2564403,US2564403,G06F 7,1949,186.6,32,34,data posting system,Teleregister Corp
+US2570716,US2570716,H04J 3,1948,317,33,35,signal transmission system,Sylvania Electric Prod
+US2575017,US2575017,H03M 5,1950,306.1,31,33,sync coded signal,Eastman Kodak Co
+US2575034,US2575034,G11B 7,1949,223.7,32,34,data film record,Eastman Kodak Co
+US2575956,US2575956,G06G 7,1948,192.9,33,35,train computer,"Hereford Jr Frank L, Whitehead Jr Walter D"
+US2576099,US2576099,H03K 21,1947,283.8,34,36,translator,Int Standard Electric Corp
+US2576903,US2576903,G04C 23,1950,158.2,31,33,electric switching,Librascope Inc
+US2579831,US2579831,G06F 7,1946,186.4,35,37,storing measured data,Keinath George
+US2581426,US2581426,H04L 17,1946,326.3,35,37,telegraph impulse,Creed & Co Ltd
+US2581438,US2581438,G06G 7,1946,192.7,35,37,navigating machine,Sperry Corp
+US2581594,US2581594,H03J 7,1948,279.6,33,35,radio system,Rca Corp
+US2584809,US2584809,G06G 7,1949,193.1,32,34,computer device,Phillips Petroleum Co
+US2584897,US2584897,G01G 23,1947,130.1,34,36,electric comoputer,Toledo Scale Co
+US2588386,US2588386,G05B 19,1949,165.4,32,34,automatic tracker,"Capecelatro Achille, Charles L Hubbard"
+US2590110,US2590110,H03M 1,1951,303.2,30,32,translator,Us Army
+US2594694,US2594694,B23Q 35,1948,36.9,33,35,pattern control,Seneca Falls Machine Co
+US2595701,US2595701,G10H 1,1948,218,33,35,recording system,Bell Telephone Labor Inc
+US2596741,US2596741,G11C 13,1948,224,33,35,external memory device,Eastman Kodak Co
+US2601159,US2601159,B65H 35,1946,83.4,35,37,dispense machine,Marsh Stencil Machine Company
+US2609143,US2609143,G06F 7,1948,186.5,33,35,electric computing,Stibitz George R
+US2610317,US2610317,H02J 3,1948,246.1,33,35,power controller,Fowler Girard
+US2627055,US2627055,B23Q 35,1949,37,32,34,navigating machine,Raytheon Mfg Co
+US2628539,US2628539,G05B 19,1945,164.9,36,38,record and reproduce,De Neergaard Leif Eric
+US2629440,US2629440,B26D 1,1946,48.1,35,37,automatic machine,Harry Rosenthal
+US2630481,US2630481,H03M 1,1949,302.8,32,34,data transmission,Johnson Eric A
+US2630552,US2630552,H03M 1,1949,302.9,32,34,decoding,Johnson Eric Arthur
+US2630722,US2630722,B23Q 16,1949,31.1,32,34,machine control,Jr George H Benzon
+US2632058,US2632058,H03M 1,1947,302.2,34,36,pulse modulation,Bell Telephone Labor Inc
+US2640176,US2640176,B23Q 35,1951,37.1,30,32,speed control,Raytheon Mfg Co
+US2643355,US2643355,H03M 1,1951,303.3,30,32,computer device,Jr Ludlow B Hallman
+US2656106,US2656106,H03M 1,1946,301.9,35,37,position control system,Stabler Howard P
+US2656497,US2656497,G05D 3,1950,177.9,31,33,position control system,Collins Radio Co
+US2658139,US2658139,H03M 1,1950,303.1,31,33,decoder,Raytheon Mfg Co
+US2660618,US2660618,H03M 1,1948,302.4,33,35,signal translation,Int Standard Electric Corp
+US2660700,US2660700,G06G 7,1950,193.2,31,33,sythesizer,United Shoe Machinery Corp
+US2661152,US2661152,G06G 7,1948,193,33,35,computing device,Peter Elias
+US2662413,US2662413,B23D 27,1949,20.1,32,34,cutting machine,Int Register Co
+US2672067,US2672067,G05D 3,1950,178,31,33,electric control,Hansell Marjorie B
+US2673951,US2673951,B23Q 35,1951,37.2,30,32,motor mechanism,Electronique & Automatisme Sa
+US2677758,US2677758,G01S 13,1945,149.3,36,38,electrical tracking,Us Sec War
+US2678254,US2678254,H03M 1,1949,303,32,34,coding system,Schenck James
+US2685054,US2685054,H03M 1,1951,303.4,30,32,electric rotation,Us Army
+US2690532,US2690532,G05B 19,1949,165.5,32,34,record motor control,Clarence Johnson
+US2706270,US2706270,G05B 19,1950,165.6,31,33,digital control,Ncr Co
+US2710934,US2710934,G05B 19,1950,165.7,31,33,motor control,Kearney & Trecker Corp
+US2711499,US2711499,H03M 1,1953,303.5,28,30,converting electrical code,Bernard Lippel
+US2715703,US2715703,G05D 3,1950,178.1,31,33,remote digital control,Honeywell Regulator Co
+US2727570,US2727570,B65H 35,1949,83.5,32,34,electric control,Marsh Stencil Machine Company
+US2736852,US2736852,G05B 19,1955,166.1,26,28,automatic digital control system,Eldred C Nelson
+US2741732,US2741732,G05B 19,1951,165.8,30,32,automatic motor control,Bosch Arma Corp
+US2744872,US2744872,C10M,1953,87.2,28,30,gear,Texas Co
+US2781169,US2781169,G06G 7,1951,193.3,30,32,vector adder,Northrop Aircraft Inc
+US2784359,US2784359,B25J 9,1953,47.2,28,30,digital control,Sperry Prod Inc
+US2809333,US2809333,H02P 5,1952,256.8,29,31,thickness control system,Giddings & Lewis
+US2820898,US2820898,G01S 13,1954,149.4,27,29,radio system,Csf
+US2833941,US2833941,H03M 1,1955,303.6,26,28,automation system,Gen Dynamics Corp
+US2838963,US2838963,B23B 39,1957,14.3,24,26,control system,American Steel Foundries
+US2839711,US2839711,G05D 3,1955,178.2,26,28,automatic control,Industosyn Corp
+US2843811,US2843811,G05B 19,1956,166.3,25,27,three dimensional system,Inductosyn Corp
+US2867724,US2867724,G05B 19,1956,166.4,25,27,control cirtcuit,Gen Dynamics Corp
+US2870429,US2870429,G05B 19,1951,165.9,30,32,automatic program,Gen Precision Lab Inc
+US2876650,US2876650,G05B 19,1955,166.2,26,28,automatic position machine,Sundstrand Machine Tool Co
+US2922940,US2922940,H03M 1,1957,303.7,24,26,digital control,Harry W Mergler
+US2927258,US2927258,G05B 19,1951,166,30,32,automatic control,Lippel Bernard
+US2927735,US2927735,G05B 19,1956,166.5,25,27,radio system,Gen Dynamics Corp
+US3015806,US3015806,G05B 19,1958,166.7,23,25,machine control system,Wang Laboratories
+US3063311,US3063311,G05B 19,1957,166.6,24,26,control system,Gen Electric
+US309608,US309608,F03G 5,1884,95,84,86,horse power,Lewis H. Davis
+US3099781,US3099781,G05B 19,1961,167.1,21,23,digital control,Westinghouse Electric Corp
+US3109974,US3109974,G05B 19,1961,167.2,21,23,feedrate control,Thompson Ramo Wooldridge Inc
+US3110865,US3110865,G05B 19,1960,166.9,22,24,feed rate control,Gen Electric
+US3122691,US3122691,G05B 19,1962,167.3,20,22,digital contouring system,Bendix Corp
+US3204132,US3204132,G05B 19,1962,167.4,20,22,contourding system,Bendix Corp
+US3246125,US3246125,G05B 19,1960,167,22,24,neuro control system,Warner Swasey Co
+US3278817,US3278817,G05B 19,1958,166.8,23,25,control system,Bendix Corp
+US3286085,US3286085,G05B 19,1963,167.5,19,21,machine control,Twr Inc
+US3417303,US3417303,G05B 19,1964,167.6,18,20,neuro control system,Pratt & Whitney Inc
+US3538315,US3538315,G05B 19,1967,167.7,17,19,machine control,Pratt & Whitney Inc
+US3821469,US3821469,G06F 3,1972,184.1,16,18,graphica data device,Amperex Electronic Corp
+US3868565,US3868565,G05D 1,1973,171.5,15,17,object tracking,Jack Kuipers
+US546553,US546553,G06C 1,1894,181,83,85,porter,F One
+US552379,US552379,B23B 39,1894,14,83,85,Island,The Pettee Machine Works
+US574780,US574780,B26D 1,1896,48,82,84,britton,P Two
+US6034712,US6034712,B41J 2,1997,61,11,13,exposure and image forming,Brother Kogyo Kabushiki Kaisha
+US6044964,US6044964,G11B 23,1998,221,10,12,multidirection conveyr,"Sony Corporation, Digital Audio Disc Corporation"
+US6166504,US6166504,B25J 9,1999,47.3,9,11,moving robot arm,Denso Corporation
+US6167145,US6167145,G06F 19,1996,183,12,14,bone navigation system,"Surgical Navigation Technologies, Inc."
+US642761,US642761,F16F 15,1897,100,81,83,reciprocating engine,Michael Holroyd Smith
+US654130,US654130,B63H 20,1899,74,80,82,electric control,Gen Electric
+US672320,US672320,F16F 15,1899,100.1,80,82,counterbalance system,Robert Edgar Ford
+US702371,US702371,F04B 9,1901,96,79,81,motor system,Henry Andrew Meyer
+US776212,US776212,B23D 5,1904,22,77,79,automatic roll machine,David S Anthony
+US8086008,US8086008,G06T 7,2010,205,5,7,real-time guiding location,"Intuitive Surgical Operations, Inc."
+US811539,US811539,G05D 3,1905,173,76,78,electric control,Westinghouse Electric & Mfg Co
+US812507,US812507,B23D 51,1904,23,77,79,surgical engine,William H Ludewig
+US839740,US839740,B29D 19,1905,55,76,78,machine,Elbert D W Rose
+US841325,US841325,B26F 1,1906,52,75,77,cloth-cutting machine,Simplex Cutting Machine Co
+US853771,US853771,F01P 5,1905,93,76,78,trolley wheel,James F Cottrell
+US876701,US876701,H03M 1,1907,301,74,76,electronic control system,Heinrich Drewell
+US908605,US908605,F16H 21,1907,102,74,76,crank and yoke,Fred C Olin
+US913363,US913363,H04L 7,1903,331.1,78,80,electrical apparatus,Albert C Crehore
+US921280,US921280,G04C 13,1909,157,72,74,time control system,Albert A Radtke
+US961358,US961358,G06M 1,1910,201,71,73,indicate device,Minerallac Electric Company
+US977480,US977480,B41J 13,1905,60.3,76,78,type writing,Yost Writing Machine Co
+US998273,US998273,B23Q 35,1910,33,71,73,machine tool,Rudolf Beuttenmueller
+WO2008031664A1,WO2008031664A1,G05B 19,2007,168,7,9,robot arm collision,Abb Research Ltd.
+WO2015120008A1,WO2015120008A1,A61B 19,2015,4.1,2,4,robot arm collision,Intuitive Surgical Operations
