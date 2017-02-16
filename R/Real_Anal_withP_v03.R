@@ -123,6 +123,15 @@ graph_year<-
 get_global_graph_attrs(graph_year)
 render_graph(graph_year)
 
+#######
+#making upper x axis
+#select the years and make new nodes
+
+ipc_info<-distinct(select(dist_pat, ipc))
+nrow(ipc_info)
+ipc_info<-muate(year_info, label=factor(ipc))
+ipc_info<-mutate(year_info, y= as.muneric(max(x)+5))
+
 ###
 pn<-get_node_df(graph_1)
 head(pn)
